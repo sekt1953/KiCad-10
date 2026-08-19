@@ -38,6 +38,12 @@
 * [Reset to default Setup](./ResetToDefaultSetup.md)
 * [Plugin](./Plugins.md)
 
+## Libraries
+
+* Symbol Libraries
+* Footprint Libraries
+* Design Block Libraries
+
 ## Project
 
 * [Sporskiftecontroler](./Project/Sporskiftecontroler/Sporskiftecontroler.md)
