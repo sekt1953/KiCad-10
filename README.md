@@ -18,7 +18,7 @@
       * ✅ [Assigning PCB footprints](https://youtu.be/g3vxpdG1chs?t=2780)
       * ✅ [Running Electrical Rules Check (ERC)](https://youtu.be/g3vxpdG1chs?t=3513)
       * ✅ [Moving from schematic to PCB layout](https://youtu.be/g3vxpdG1chs?t=3980)
-      * ✅ Creating the PCB outline using Edge Cuts
+      * ✅ [Creating the PCB outline using Edge Cuts](https://youtu.be/g3vxpdG1chs?t=4407)
       * ✅ Component placement and board organization
       * ✅ Routing PCB traces
       * ✅ Adding copper zones / ground planes
