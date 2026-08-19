@@ -1,4 +1,4 @@
-# KiCad-10
+# KiCad-10.0
 
 ## Help
 
