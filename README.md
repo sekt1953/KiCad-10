@@ -1,0 +1,2 @@
+# KiCad-10
+mINE BIDRAG TIL KiCad 10
