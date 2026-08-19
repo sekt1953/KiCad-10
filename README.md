@@ -25,7 +25,7 @@
       * ✅ [Preparing the board for manufacturing](https://youtu.be/g3vxpdG1chs?t=6758)
         * [Mountingholes](https://youtu.be/g3vxpdG1chs?t=6851)
       * ✅ [Exporting Gerber and drill files](https://youtu.be/g3vxpdG1chs?t=7237)
-      * ✅ Checking manufacturing files
+      * ✅ [Checking manufacturing files](https://youtu.be/g3vxpdG1chs?t=7462)
       * ✅ Ordering your PCB from JLCPCB
 * [The Design Graveyard](https://www.youtube.com/@TheDesignGraveyard)
   * [Learn KiCAD10 in 7 steps](https://youtu.be/3NSjzMN1xyc) Time 31:47
