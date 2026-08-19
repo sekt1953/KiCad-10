@@ -26,7 +26,7 @@
         * [Mountingholes](https://youtu.be/g3vxpdG1chs?t=6851)
       * ✅ [Exporting Gerber and drill files](https://youtu.be/g3vxpdG1chs?t=7237)
       * ✅ [Checking manufacturing files](https://youtu.be/g3vxpdG1chs?t=7462)
-      * ✅ Ordering your PCB from JLCPCB
+      * ✅ [Ordering your PCB from JLCPCB](https://youtu.be/g3vxpdG1chs?t=7522)
 * [The Design Graveyard](https://www.youtube.com/@TheDesignGraveyard)
   * [Learn KiCAD10 in 7 steps](https://youtu.be/3NSjzMN1xyc) Time 31:47
   * [KiCAD10 Autorouters: Freerouting vs KiCAD Routing Tools](https://youtu.be/joBLIPqoB_w)
