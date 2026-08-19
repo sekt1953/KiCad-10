@@ -22,7 +22,7 @@
       * ✅ [Component placement and board organization](https://youtu.be/g3vxpdG1chs?t=5143)
       * ✅ [Routing PCB traces](https://youtu.be/g3vxpdG1chs?t=5669)
       * ✅ [Adding copper zones / ground planes](https://youtu.be/g3vxpdG1chs?t=6073)
-      * ✅ Preparing the board for manufacturing
+      * ✅ [Preparing the board for manufacturing](https://youtu.be/g3vxpdG1chs?t=6758)
       * ✅ Exporting Gerber and drill files
       * ✅ Checking manufacturing files
       * ✅ Ordering your PCB from JLCPCB
