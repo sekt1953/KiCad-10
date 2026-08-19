@@ -19,8 +19,8 @@
       * ✅ [Running Electrical Rules Check (ERC)](https://youtu.be/g3vxpdG1chs?t=3513)
       * ✅ [Moving from schematic to PCB layout](https://youtu.be/g3vxpdG1chs?t=3980)
       * ✅ [Creating the PCB outline using Edge Cuts](https://youtu.be/g3vxpdG1chs?t=4407)
-      * ✅ Component placement and board organization
-      * ✅ Routing PCB traces
+      * ✅ [Component placement and board organization](https://youtu.be/g3vxpdG1chs?t=5143)
+      * ✅ [Routing PCB traces](https://youtu.be/g3vxpdG1chs?t=5146)
       * ✅ Adding copper zones / ground planes
       * ✅ Preparing the board for manufacturing
       * ✅ Exporting Gerber and drill files
