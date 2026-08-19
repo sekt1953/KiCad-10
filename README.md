@@ -30,6 +30,9 @@
 * [The Design Graveyard](https://www.youtube.com/@TheDesignGraveyard)
   * [Learn KiCAD10 in 7 steps](https://youtu.be/3NSjzMN1xyc) Time 31:47
   * [KiCAD10 Autorouters: Freerouting vs KiCAD Routing Tools](https://youtu.be/joBLIPqoB_w)
+* [Scordion Electronics](https://www.youtube.com/@scordion)
+  * [Master Design Blocks in KiCAD 9 – Save Time & Reuse Schematics!](https://youtu.be/seTI7mZ2Gr0)
+  * [Modular Schematic Design in KiCAD with Hierarchical Sheets](https://youtu.be/qGHSm74UwHI)
 * [HTM Workshop](https://www.youtube.com/@HTMWorkshop)
   * [KiCad Tutorial | Beginning to End](https://www.youtube.com/playlist?list=PLUOaI24LpvQPls1Ru_qECJrENwzD7XImd)
 
