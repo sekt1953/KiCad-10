@@ -23,8 +23,8 @@
       * ✅ [Routing PCB traces](https://youtu.be/g3vxpdG1chs?t=5669)
       * ✅ [Adding copper zones / ground planes](https://youtu.be/g3vxpdG1chs?t=6073)
       * ✅ [Preparing the board for manufacturing](https://youtu.be/g3vxpdG1chs?t=6758)
-         * [Mountingholes](https://youtu.be/g3vxpdG1chs?t=6851)
-      * ✅ Exporting Gerber and drill files
+        * [Mountingholes](https://youtu.be/g3vxpdG1chs?t=6851)
+      * ✅ [Exporting Gerber and drill files](https://youtu.be/g3vxpdG1chs?t=7237)
       * ✅ Checking manufacturing files
       * ✅ Ordering your PCB from JLCPCB
 * [The Design Graveyard](https://www.youtube.com/@TheDesignGraveyard)
