@@ -32,7 +32,6 @@
   * [KiCAD10 Autorouters: Freerouting vs KiCAD Routing Tools](https://youtu.be/joBLIPqoB_w)
 * [Scordion Electronics](https://www.youtube.com/@scordion)
   * [Master Design Blocks in KiCAD 9 – Save Time & Reuse Schematics!](https://youtu.be/seTI7mZ2Gr0)
-    * []()
   * [Modular Schematic Design in KiCAD with Hierarchical Sheets](https://youtu.be/qGHSm74UwHI)
 * [YU Lab](https://www.youtube.com/@yu_lab_0)
   * [Stop Redrawing Circuits in KiCad: Design Blocks for Schematic + PCB Layout](https://youtu.be/qSK9_h3r868)
