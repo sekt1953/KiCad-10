@@ -8,6 +8,24 @@
   * [Learning Resources](https://www.kicad.org/help/learning-resources/)
 * [EmbeddedU](https://www.youtube.com/@EmbeddedU)
   * [Kicad 10 Made Simple From Zero Experience To A Real PCB](https://www.youtube.com/watch?v=g3vxpdG1chs) Time: 2:10:08
+    * in this video, you will learn:
+      * ✅ Installing KiCad 10
+      * ✅ Creating a new KiCad project
+      * ✅ Understanding the KiCad workflow
+      * ✅ Drawing schematics (schematic capture)
+      * ✅ Adding and editing components
+      * ✅ Annotating your schematic
+      * ✅ [Assigning PCB footprints](https://youtu.be/g3vxpdG1chs?t=2780)
+      * ✅ [Running Electrical Rules Check (ERC)](https://youtu.be/g3vxpdG1chs?t=3513)
+      * ✅ Moving from schematic to PCB layout
+      * ✅ Creating the PCB outline using Edge Cuts
+      * ✅ Component placement and board organization
+      * ✅ Routing PCB traces
+      * ✅ Adding copper zones / ground planes
+      * ✅ Preparing the board for manufacturing
+      * ✅ Exporting Gerber and drill files
+      * ✅ Checking manufacturing files
+      * ✅ Ordering your PCB from JLCPCB
 * [The Design Graveyard](https://www.youtube.com/@TheDesignGraveyard)
   * [Learn KiCAD10 in 7 steps](https://youtu.be/3NSjzMN1xyc) Time 31:47
   * [KiCAD10 Autorouters: Freerouting vs KiCAD Routing Tools](https://youtu.be/joBLIPqoB_w)
@@ -17,16 +35,4 @@
 ## Setup
 
 * [Reset to default Setup](./ResetToDefaultSetup.md)
-* Plugin
-  * com_github_bouni_kicad-jlcpcb-tools
-  * KiCad Routing Tools
-    * KiCad Routing Tools is a fast, grid-based A* autorouter for KiCad PCB files, accelerated with a native Rust core (~10x faster than pure Python).
-  * PCBWay Plug-in for KiCad
-    * Click this plugin for high quality prototyping and assembly services,
-  * PCBWay Fabrication Toolkit
-    * Toolkit for automating PCB fabrication process with KiCad and PCBWay.
-    * Export the following production files to your local device with just one click:
-        1. Gerber files in correct format for production.
-        2. IPC-Netlist file.
-        3.Bom-file that includes all information of components.
-        4.Pick and Place-file used in assembly.
+* [Plugin](./Plugins.md)
