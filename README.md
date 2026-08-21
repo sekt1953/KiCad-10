@@ -44,6 +44,9 @@
     * [KiCad 10 and FreeCAD 1.1 are substantial](https://youtu.be/RrsPh7PYMvw)
   * [Cliff Brake](https://www.youtube.com/@cliffbrake)
     * [Quickly moving 3D model data from KiCad to FreeCAD](https://youtu.be/i7StDopw0kI)
+  * AI
+    * [How to model a custom 3D part in FreeCAD](./HowToModelACustom3DpartInFreeCAD.md)
+    * [Trying to design an enclosure for an existing board](./ToDesignAnEnclosureForAnExistingBoardUsingFreeCADandKiCad.md)
 
 ## Setup
 
