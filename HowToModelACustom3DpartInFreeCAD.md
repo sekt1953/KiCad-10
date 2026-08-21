@@ -29,7 +29,3 @@
    3. Click the folder icon, browse to your project directory, and select your exported .wrl or .step file.
    4. Because you already aligned it perfectly using StepUp in FreeCAD, the model should load with zero coordinate offsets (X:0, Y:0, Z:0).
    5. Click OK, then press Alt + 3 (or navigate to View > 3D Viewer) to visualize your populated board in full 3D.
-
-## design a physical enclosure
-
-*  If you are instead looking to design a physical enclosure around an entire completed board layout, what specific enclosure style or mounting constraints does your project require?
