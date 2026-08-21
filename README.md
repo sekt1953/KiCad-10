@@ -42,6 +42,8 @@
     * [FreeCAD Export to KiCAD](https://youtu.be/JjDKCBUYoPU)
   * [Tech Dregs](https://www.youtube.com/@TechDregs)
     * [KiCad 10 and FreeCAD 1.1 are substantial](https://youtu.be/RrsPh7PYMvw)
+  * [Cliff Brake](https://www.youtube.com/@cliffbrake)
+    * [Quickly moving 3D model data from KiCad to FreeCAD](https://youtu.be/i7StDopw0kI)
 
 ## Setup
 
