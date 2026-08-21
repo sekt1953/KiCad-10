@@ -37,7 +37,7 @@
   * [Stop Redrawing Circuits in KiCad: Design Blocks for Schematic + PCB Layout](https://youtu.be/qSK9_h3r868)
 * [HTM Workshop](https://www.youtube.com/@HTMWorkshop)
   * [KiCad Tutorial | Beginning to End](https://www.youtube.com/playlist?list=PLUOaI24LpvQPls1Ru_qECJrENwzD7XImd)
-* [KiCad & FreeCad](./HowToModelACustom3DpartInFreeCAD.md)
+* KiCad & FreeCad
   * [mathcodeprint](https://www.youtube.com/@mathcodeprint)
     * [FreeCAD Export to KiCAD](https://youtu.be/JjDKCBUYoPU)
   * [Tech Dregs](https://www.youtube.com/@TechDregs)
