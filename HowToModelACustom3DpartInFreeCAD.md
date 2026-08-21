@@ -1,6 +1,6 @@
-# how to model a custom 3D part in FreeCAD
+# How to model a custom 3D part in FreeCAD
 
-## design 3d veiw in freecad for kicad 10
+## Design 3d veiw in freecad for kicad 10.0
 
 * To seamlessly design and bridge 3D views and models between FreeCAD and KiCad 10, the definitive industry standard is to use the KiCad StepUp Workbench. This allows you to create mechanical models in FreeCAD that perfectly align with your KiCad component footprints, board edges, and enclosures.
 * The step-by-step workflow outlines how to model a custom 3D part in FreeCAD and display it natively inside KiCad 10's 3D Viewer:
