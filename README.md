@@ -9,12 +9,12 @@
 * [EmbeddedU](https://www.youtube.com/@EmbeddedU)
   * [Kicad 10 Made Simple From Zero Experience To A Real PCB](https://www.youtube.com/watch?v=g3vxpdG1chs) Time: 2:10:08
     * in this video, you will learn:
-      * ✅ Installing KiCad 10
-      * ✅ Creating a new KiCad project
-      * ✅ Understanding the KiCad workflow
-      * ✅ Drawing schematics (schematic capture)
-      * ✅ Adding and editing components
-      * ✅ Annotating your schematic
+      * ✅ [Installing KiCad 10](https://youtu.be/g3vxpdG1chs)
+      * ✅ [Creating a new KiCad project](https://youtu.be/g3vxpdG1chs?t=225)
+      * ✅ [Understanding the KiCad workflow]()
+      * ✅ [Drawing schematics (schematic capture)]()
+      * ✅ [Adding and editing components]()
+      * ✅ [Annotating your schematic]()
       * ✅ [Assigning PCB footprints](https://youtu.be/g3vxpdG1chs?t=2780)
       * ✅ [Running Electrical Rules Check (ERC)](https://youtu.be/g3vxpdG1chs?t=3513)
       * ✅ [Moving from schematic to PCB layout](https://youtu.be/g3vxpdG1chs?t=3980)
@@ -37,6 +37,11 @@
   * [Stop Redrawing Circuits in KiCad: Design Blocks for Schematic + PCB Layout](https://youtu.be/qSK9_h3r868)
 * [HTM Workshop](https://www.youtube.com/@HTMWorkshop)
   * [KiCad Tutorial | Beginning to End](https://www.youtube.com/playlist?list=PLUOaI24LpvQPls1Ru_qECJrENwzD7XImd)
+* KiCad & FreeCad
+  * [mathcodeprint](https://www.youtube.com/@mathcodeprint)
+    * [FreeCAD Export to KiCAD](https://youtu.be/JjDKCBUYoPU)
+  * [Tech Dregs](https://www.youtube.com/@TechDregs)
+    * [KiCad 10 and FreeCAD 1.1 are substantial](https://youtu.be/RrsPh7PYMvw)
 
 ## Setup
 
