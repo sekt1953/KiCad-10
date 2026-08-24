@@ -48,6 +48,9 @@
     * [How to model a custom 3D part in FreeCAD](./HowToModelACustom3DpartInFreeCAD.md)
     * [Trying to design an enclosure for an existing board](./ToDesignAnEnclosureForAnExistingBoardUsingFreeCADandKiCad.md)
 * KiCad & EMI
+  * [Phil’s Lab](https://www.youtube.com/@PhilsLab)
+    * [Boost Converter PCB Design - Phil's Lab #106](https://youtu.be/1g-D8T65SJU)
+    * [Boost Converter Design & Sizing - Phil's Lab #113](https://youtu.be/qd7qcZnV70o)
   * [Robert Feranec](https://www.youtube.com/@RobertFeranec)
     * [9 Simple Tricks to Improve EMC / EMI on Your Boards - Practical examples (with Min Zhang)](https://youtu.be/Lf51sx6sC0I)
 
