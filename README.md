@@ -47,6 +47,9 @@
   * AI
     * [How to model a custom 3D part in FreeCAD](./HowToModelACustom3DpartInFreeCAD.md)
     * [Trying to design an enclosure for an existing board](./ToDesignAnEnclosureForAnExistingBoardUsingFreeCADandKiCad.md)
+* KiCad & EMI
+  * [Robert Feranec](https://www.youtube.com/@RobertFeranec)
+    * [9 Simple Tricks to Improve EMC / EMI on Your Boards - Practical examples (with Min Zhang)](https://youtu.be/Lf51sx6sC0I)
 
 ## Setup
 

@@ -1,7 +1,6 @@
-#
+# How to design an enclosure for an existing board
 
-Samtale i AI-tilstand: kicad and freecadDu sagde: kicad and freecadkicad and freecad
-
+Samtale i AI-tilstand: kicad and freecadDu sagde: 
 Combining KiCad (electronic design) and FreeCAD (3D mechanical design) allows you to design printed circuit boards and build precise 3D mechanical enclosures around them using open-source tools.
 
 * How They Work Together
