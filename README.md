@@ -52,6 +52,7 @@
     * [Boost Converter PCB Design - Phil's Lab #106](https://youtu.be/1g-D8T65SJU)
     * [Boost Converter Design & Sizing - Phil's Lab #113](https://youtu.be/qd7qcZnV70o)
     * [(Sponsored) How To Improve Your PCB Designs (Common Mistakes) - Phil's Lab #18](https://youtu.be/IclJ9nbtYgI)
+      * [[LIVE] How to Achieve Proper Grounding - Rick Hartley - Expert Live Training (US)](https://youtu.be/ySuUZEjARPY)
   * [Robert Feranec](https://www.youtube.com/@RobertFeranec)
     * [9 Simple Tricks to Improve EMC / EMI on Your Boards - Practical examples (with Min Zhang)](https://youtu.be/Lf51sx6sC0I)
 
