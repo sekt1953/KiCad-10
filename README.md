@@ -58,6 +58,7 @@
     * [***Do You Really Need Power Planes?*** Are you sure? | Eric Bogatin](https://youtu.be/kdCJxdR7L_I "Eric Bogatin")
     * [hat Every PCB Designer Should Know - Return Current Path (with Eric Bogatin)](https://youtu.be/icRzEZF3eZo "Eric Bogatin")
     * [What Decoupling Capacitor Value To Use And Where To Place Them | Eric Bogatin](https://youtu.be/ARwBwHZESOY "Eric Bogatin")
+    * []()
 
 ## Setup
 
