@@ -55,7 +55,7 @@
       * [How to Achieve Proper Grounding - Rick Hartley - Expert Live Training (US)](https://youtu.be/ySuUZEjARPY "Rick Hartley")
   * [Robert Feranec](https://www.youtube.com/@RobertFeranec)
     * [9 Simple Tricks to Improve EMC / EMI on Your Boards - Practical examples (with Min Zhang)](https://youtu.be/Lf51sx6sC0I)
-    * [Do You Really Need Power Planes? Are you sure? | Eric Bogatin](https://youtu.be/kdCJxdR7L_I "Eric Bogatin")
+    * [***Do You Really Need Power Planes?*** Are you sure? | Eric Bogatin](https://youtu.be/kdCJxdR7L_I "Eric Bogatin")
     * [hat Every PCB Designer Should Know - Return Current Path (with Eric Bogatin)](https://youtu.be/icRzEZF3eZo "Eric Bogatin")
 
 ## Setup
