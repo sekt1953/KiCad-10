@@ -671,13 +671,18 @@
       {
         "filename": "test1.kicad_sch",
         "name": "test1",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "df40a3ed-29e1-4fed-8bb8-557e0f8da153"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R1,D1-3,J1-3,Q1-2,U1-2",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "df40a3ed-29e1-4fed-8bb8-557e0f8da153",
+      "test1"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
