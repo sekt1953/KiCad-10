@@ -11,9 +11,9 @@
     * in this video, you will learn:
       * ✅ [Installing KiCad 10](https://youtu.be/g3vxpdG1chs)
       * ✅ [Creating a new KiCad project](https://youtu.be/g3vxpdG1chs?t=225)
-      * ✅ [Understanding the KiCad workflow]()
-      * ✅ [Drawing schematics (schematic capture)]()
-      * ✅ [Adding and editing components]()
+      * ✅ [Understanding the KiCad workflow](https://youtu.be/g3vxpdG1chs?t=330)
+      * ✅ [Drawing schematics (schematic capture)](https://youtu.be/g3vxpdG1chs?t=491)
+      * ✅ [Adding and editing components](https://youtu.be/g3vxpdG1chs)
       * ✅ [Annotating your schematic]()
       * ✅ [Assigning PCB footprints](https://youtu.be/g3vxpdG1chs?t=2780)
       * ✅ [Running Electrical Rules Check (ERC)](https://youtu.be/g3vxpdG1chs?t=3513)
