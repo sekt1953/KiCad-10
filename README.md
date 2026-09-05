@@ -28,7 +28,7 @@
       * ✅ [Checking manufacturing files](https://youtu.be/g3vxpdG1chs?t=7462)
       * ✅ [Ordering your PCB from JLCPCB](https://youtu.be/g3vxpdG1chs?t=7522)
 * [The Design Graveyard](https://www.youtube.com/@TheDesignGraveyard)
-  * [Learn KiCAD10 in 7 steps](https://youtu.be/3NSjzMN1xyc) Time 31:47
+  * [Learn KiCAD10 in 7 steps](https://www.youtube.com/watch?v=3NSjzMN1xyc&t=1s) Time 31:47
   * [KiCAD10 Autorouters: Freerouting vs KiCAD Routing Tools](https://youtu.be/joBLIPqoB_w)
 * [Scordion Electronics](https://www.youtube.com/@scordion)
   * [Master Design Blocks in KiCAD 9 – Save Time & Reuse Schematics!](https://youtu.be/seTI7mZ2Gr0)
