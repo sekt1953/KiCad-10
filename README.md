@@ -30,6 +30,9 @@
 * [The Design Graveyard](https://www.youtube.com/@TheDesignGraveyard)
   * [Learn KiCAD10 in 7 steps](https://www.youtube.com/watch?v=3NSjzMN1xyc&t=1s) Time 31:47
   * [KiCAD10 Autorouters: Freerouting vs KiCAD Routing Tools](https://youtu.be/joBLIPqoB_w)
+* [Tech Explorations](https://www.youtube.com/@TechExplorations_)
+  * [KiCad 9: Design & assemble an ESP32 IoT 4-layer PCB loaded with goodies **A Complete Guide**](https://youtu.be/LO9AO0XTX3M) Time: 5:52:20
+    * [Designing a 4-Layer IoT Development Board with KiCad 9](https://techexplorations.com/kicad/kicad-9-designing-a-4-layer-iot-development-board/)
 * [Scordion Electronics](https://www.youtube.com/@scordion)
   * [Master Design Blocks in KiCAD 9 – Save Time & Reuse Schematics!](https://youtu.be/seTI7mZ2Gr0)
   * [Modular Schematic Design in KiCAD with Hierarchical Sheets](https://youtu.be/qGHSm74UwHI)
