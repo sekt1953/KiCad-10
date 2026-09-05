@@ -29,40 +29,6 @@
       * ✅ [Ordering your PCB from JLCPCB](https://youtu.be/g3vxpdG1chs?t=7522)
 * [The Design Graveyard](https://www.youtube.com/@TheDesignGraveyard)
   * [Learn KiCAD10 in 7 steps](https://youtu.be/3NSjzMN1xyc) Time 31:47
-    * 0:00 Introduction
-    * 0:19 Contents
-    * 1:04 Schematic -set up new project
-    * 1:35 Schematic - place components
-    * [6:22 Custom symbol creation](https://www.youtube.com/watch?v=3NSjzMN1xyc&t=382s)
-    * 9:18 Schematic - wiring connections
-    * 12:09 Schematic - wiring: global labels
-    * 13:14 Schematic sheet size and description
-    * [13:55 Create a custom footprint--sound is out of sync!](https://www.youtube.com/watch?v=3NSjzMN1xyc&t=835s)
-    * 16:06 Custom footprint - pad positions
-    * 16:45 Custom footprint boundary
-    * 17:45 Custom footprint - add to your schematic
-    * 18:12 PCB layout- create PCB from schematic
-    * 18:35 PCB layout - move key components in position
-    * 19:35 PCB layout - draw PCB edge
-    * 20:20 PCB layout - fine adjust PCB edge
-    * 21:00 PCB layout - 3D viewer tool
-    * 21:20 PCB layout - move remaining parts in position
-    * 21:35 PCB layout - optimize positioning for for connections (RAT lines)
-    * 22:13 PCB layout - position component names (silk screen)
-    * 22:28 PCB layout - 3D viewer check
-    * 22:42 PCB layout - PCB tracks, settings & board setup
-    * 23:28 PCB layout - draw PCB tracks & vias
-    * 24:01 PCB layout - PCB track change properties
-    * 24:44 PCB layout - copper fill
-    * 25:53 PCB layout - copper fill, change fill properties
-    * 26:10 PCB error check - Direct Rule Check (DRC)
-    * 27:10 PCB error check - Update project design rule constraints
-    * 28:30 PCB error check - warnings 
-    * 29:10 PCB Gerber - create Gerber & drill files
-    * 30:19 PCB Gerber - check Gerber zip file
-    * 30:50 Order PCB's
-    * 31:08 Build & try PCB's
-    * 31:22 Conclusion, like & subscribe ;-)
   * [KiCAD10 Autorouters: Freerouting vs KiCAD Routing Tools](https://youtu.be/joBLIPqoB_w)
 * [Scordion Electronics](https://www.youtube.com/@scordion)
   * [Master Design Blocks in KiCAD 9 – Save Time & Reuse Schematics!](https://youtu.be/seTI7mZ2Gr0)
