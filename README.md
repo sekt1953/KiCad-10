@@ -29,7 +29,7 @@
       * ✅ [Ordering your PCB from JLCPCB](https://youtu.be/g3vxpdG1chs?t=7522)
 * [The Design Graveyard](https://www.youtube.com/@TheDesignGraveyard)
   * [Learn KiCAD10 in 7 steps](https://youtu.be/3NSjzMN1xyc) Time 31:47
-    * [0:00 Introduction](https://www.youtube.com/watch?v=3NSjzMN1xyc)
+    * 0:00 Introduction
     * 0:19 Contents
     * 1:04 Schematic -set up new project
     * 1:35 Schematic - place components
