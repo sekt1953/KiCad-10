@@ -4,7 +4,7 @@
 
 ### ESPHome how do ethernet get mac address?
 
-* You can get the Ethernet MAC address in ESPHome by using the Ethernet Info Text Sensor component in your YAML configuration. 
+* You can get the Ethernet MAC address in ESPHome by using the [Ethernet Info Text Sensor](https://esphome.io/components/text_sensor/ethernet_info/) component in your YAML configuration. 
 * Configuration Example
   * Add the ethernet_info platform to your configuration to expose the MAC address as a text sensor: 
 
@@ -16,7 +16,7 @@ text_sensor:
 ```
 
 * Alternative: Setting a Custom MAC Address
-  * If you need to assign or override a fixed MAC address on your Ethernet interface instead of just reading it, use the mac_address option directly under your Ethernet Component configuration:
+  * If you need to assign or override a fixed MAC address on your Ethernet interface instead of just reading it, use the mac_address option directly under your [Ethernet Component](https://esphome.io/components/ethernet/) configuration:
 
 ```yaml
 ethernet:
@@ -98,7 +98,7 @@ ethernet:
 
 * You cannot connect an IP101 Ethernet chip to an ESP32-S3.
   * The ESP32-S3 does not have an internal Ethernet MAC controller, meaning it lacks the hardware required to communicate via RMII (Reduced Media-Independent Interface). The IP101 is a transceiver (PHY) that requires an internal RMII MAC to function. [1, 2]
-  * According to the official ESPHome Ethernet Component documentation, RMII PHY chips like the IP101, LAN8720, and RTL8201 are strictly "ESP32 only". They will not work with the S2, S3, or C3 variants. [1, 2]
+  * According to the official [ESPHome Ethernet Component documentation](https://esphome.io/components/ethernet/), RMII PHY chips like the IP101, LAN8720, and RTL8201 are strictly "ESP32 only". They will not work with the S2, S3, or C3 variants. [1, 2]
   * Your Alternatives for ESP32-S3 Ethernet
   * If you must use the ESP32-S3 and need wired Ethernet, you have to use a controller that features its own MAC and communicates with the ESP32-S3 via SPI:
     1. W5500 (Highly Recommended): Fully supported by ESPHome and widely available as an external module.
