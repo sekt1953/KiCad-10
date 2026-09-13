@@ -8,6 +8,7 @@
 * [How do i connect w5500 to esp32-s3](./AI_Help_w5500.md#how-do-i-connect-w5500-to-esp32-s3)
 * [How do i connect ip101 to esp32-s3](./AI_Help_w5500.md#how-do-i-connect-ip101-to-esp32-s3)
 * [What to do next?](./AI_Help_w5500.md#what-to-do-next)
+* [Create schematic of w5500](./AI_Help_w5500.md#create-schematic-of-w5500)
 
 ## Ethernet Parts
 
