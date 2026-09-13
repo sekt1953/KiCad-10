@@ -108,3 +108,15 @@ ethernet:
 * If you must use the ESP32-S3, you should purchase a W5500 module instead. [1, 2]
 
 Do you already have an original ESP32 development board lying around that you could swap in for this project?
+
+## Create schematic of w5500
+
+* You can build a W5500 Ethernet controller circuit by connecting an MCU via SPI, adding a 25 MHz crystal oscillator, and wiring an RJ45 jack with integrated magnetics. [1] (https://www.flux.ai/vasy_skral/w5500-poe-project), [2] (https://maker.wiznet.io/Benjamin/projects/w5500-ethernet-controller-schematic-for-kicad/)
+
+* Core Schematic Blocks
+  * Power Supply: Provide a stable 3.3V DC rail with decoupling capacitors (0.1µF and 10µF) close to the W5500 power pins.
+  * Clock Circuit: Connect a 25 MHz crystal across the XI and XO pins with two load capacitors (typically 18pF to 22pF to ground). [1] (https://www.reddit.com/r/PrintedCircuitBoard/comments/xra23c/esp32_with_w5500_schematic_review/), [2] (https://www.flux.ai/vasy_skral/w5500-poe-project)
+  * SPI Interface: Connect SCSn (Chip Select), SCLK (Clock), MOSI, and MISO to your microcontroller. Add a 10 kΩ pull-up resistor on SCSn. Include optional series resistors (33 Ω) on high-speed lines to reduce signal noise. [1] (https://www.flywing-tech.com/blog/w5500-ethernet-controller-ic-complete-guide-to-pinout-spi-protocol-pcb-design-iot-applications/)
+  * Control Pins: Tie RSTn to a microcontroller GPIO or a manual reset button, and optionally connect INTn for interrupt-driven packet handling. [1] (https://www.reddit.com/r/PrintedCircuitBoard/comments/xra23c/esp32_with_w5500_schematic_review/)
+  * BIAS Resistor: Place a precise 12.4 kΩ (1%) resistor on the EXRES1 pin to set internal PHY bias currents. [1] (https://maker.wiznet.io/Benjamin/projects/w5500-ethernet-controller-schematic-for-kicad/)
+  * Ethernet / RJ45 Interface: Use an RJ45 connector with integrated magnetics (like the HR911105A). Route the TX+/TX- and RX+/RX- differential pairs with standard termination networks (such as 49.9 Ω resistors and decoupling capacitors on the center tap) according to the official [WIZnet Reference Schematic](https://docs.wiznet.io/Product/Chip/Ethernet/W5500/ref-schematic).

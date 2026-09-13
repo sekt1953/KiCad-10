@@ -9,3 +9,11 @@
 * [How do i connect ip101 to esp32-s3](./AI_Help_w5500.md#how-do-i-connect-ip101-to-esp32-s3)
 * [What to do next?](./AI_Help_w5500.md#what-to-do-next)
 
+## Ethernet Parts
+
+* Phy:
+  * Schematic: [WIZnet](https://docs.wiznet.io/Product/Chip/Ethernet/W5500/ref-schematic)
+  * RJP-003TC1(LPJ4112CNL)
+
+
+## PoE Parts
