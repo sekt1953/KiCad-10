@@ -13,8 +13,9 @@
 ## Ethernet Parts
 
 * Phy:
-  * Schematic: [WIZnet](https://docs.wiznet.io/Product/Chip/Ethernet/W5500/ref-schematic)
+  * [WIZnet W5500 ref-schematic](https://docs.wiznet.io/Product/Chip/Ethernet/W5500/ref-schematic)
+  * [W5500 Ref.Schematic - RJ45 with Transformer](https://docs.wiznet.io/assets/images/w5500_sch_v110_use_mag_-19e2939c3f018e5d72f1b957f990f96d.png)
+  ![W5500 Ref.Schematic - RJ45 with Transformer](https://docs.wiznet.io/assets/images/w5500_sch_v110_use_mag_-19e2939c3f018e5d72f1b957f990f96d.png)
   * RJP-003TC1(LPJ4112CNL)
-
 
 ## PoE Parts
