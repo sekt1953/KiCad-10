@@ -111,7 +111,9 @@ Do you already have an original ESP32 development board lying around that you co
 
 ## Create schematic of w5500
 
-* You can build a W5500 Ethernet controller circuit by connecting an MCU via SPI, adding a 25 MHz crystal oscillator, and wiring an RJ45 jack with integrated magnetics. [1] (https://www.flux.ai/vasy_skral/w5500-poe-project), [2] (https://maker.wiznet.io/Benjamin/projects/w5500-ethernet-controller-schematic-for-kicad/)
+* You can build a W5500 Ethernet controller circuit by connecting an MCU via SPI, adding a 25 MHz crystal oscillator, and wiring an RJ45 jack with integrated magnetics. 
+  * [1] (https://www.flux.ai/vasy_skral/w5500-poe-project),
+  * [2] (https://maker.wiznet.io/Benjamin/projects/w5500-ethernet-controller-schematic-for-kicad/)
 
 * Core Schematic Blocks
   * Power Supply: Provide a stable 3.3V DC rail with decoupling capacitors (0.1µF and 10µF) close to the W5500 power pins.
