@@ -1,6 +1,6 @@
 # AI Help on PoE Power
 
-## is a poe switch power output dependency on lan connection
+## Is a PoE switch power output dependency on lan connection ?
 
 * A PoE (Power over Ethernet) switch's power output is independent of the LAN data connection, meaning data transmission does not affect power delivery, though both share the same physical cable. [1] (https://www.hpe.com/emea_europe/en/what-is/poe-switch.html), [2] (https://www.fs.com/blog/6-things-you-should-know-about-poe-switch-faq-127.html)
 
@@ -20,7 +20,7 @@
   * What devices you want to power (cameras, access points, etc.)
   * The model or total power budget of your switch
 
-## can I draw power without datalink
+## Can I draw power without datalink ?
 
 * Yes, you can draw power from a PoE port without establishing an active LAN data link. However, whether it works automatically depends entirely on whether your switch uses Active PoE or Passive PoE.
 * Here is how the two types handle power without a data connection:
