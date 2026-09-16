@@ -64,6 +64,12 @@ vcpkg_installed/
 # debug information files
 *.dwo
 
+# KiCad
+*.history
+
+# FreeCAD
+*.FCBak
+
 # test output & cache
 Testing/
 .cache/
