@@ -1448,62 +1448,236 @@
 		)
 	)
 	(junction
-		(at 73.66 71.12)
+		(at 68.58 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "02a0f373-4bd3-4483-b2c4-918e7c135ffb")
 	)
 	(junction
-		(at 69.85 59.69)
+		(at 127 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "10cbe6a4-aad2-490a-a541-151e1730d100")
+	)
+	(junction
+		(at 118.11 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "22022d7b-b09b-4a01-8964-b55f6551eb6c")
+	)
+	(junction
+		(at 118.11 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2c43946f-2314-401c-b431-31c4405aa237")
+	)
+	(junction
+		(at 81.28 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "30c7f537-1f9b-4e8d-ba07-f21ea608bf4d")
+	)
+	(junction
+		(at 81.28 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "39e459fd-73e1-4be0-b6b2-fc5dbad2947d")
+	)
+	(junction
+		(at 118.11 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "414c7bfb-7c22-4364-b752-f345388d09b9")
+	)
+	(junction
+		(at 127 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "50f2ffe7-dedf-465a-99f5-4e0de3878928")
+	)
+	(junction
+		(at 86.36 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "52eb055e-b400-4262-bc80-2746c201cf92")
+	)
+	(junction
+		(at 64.77 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "58f78f34-251c-4f88-8677-a49f6a6727b3")
+	)
+	(junction
+		(at 86.36 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5f819b32-a465-4cf2-9dca-d54dec7b668f")
+	)
+	(junction
+		(at 86.36 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6ed55e32-447c-4ddf-a723-0e483730ed54")
+	)
+	(junction
+		(at 68.58 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6fef9204-3e3d-4af4-9d34-5702e34bdd40")
+	)
+	(junction
+		(at 86.36 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "727b7568-fc0b-43b1-9421-e13dd4d8efa4")
+	)
+	(junction
+		(at 86.36 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "78e15836-9c04-4d8b-8778-8591608b93a2")
+	)
+	(junction
+		(at 127 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7a7f0c0e-2fcf-4792-a823-1f18a9b6f18f")
+	)
+	(junction
+		(at 127 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8049b0e3-b54a-44e3-b7d4-f4b6ebd5c11b")
+	)
+	(junction
+		(at 64.77 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8b38bcf5-7b77-4d30-82c4-cda37e933930")
 	)
 	(junction
-		(at 91.44 72.39)
+		(at 68.58 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8c19606d-af21-45dc-9ae8-6492a46f1447")
+	)
+	(junction
+		(at 68.58 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9a1bede1-7337-46a0-98fc-0b5aedaa13e9")
+	)
+	(junction
+		(at 86.36 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b01e3e6c-eeae-4a72-a00c-5cffb7fc2927")
 	)
 	(junction
-		(at 91.44 59.69)
+		(at 86.36 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b6d43d5a-011b-4756-b3b4-d9f0cce93ee5")
+	)
+	(junction
+		(at 68.58 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bcb33646-308a-4fb3-bdc0-2c28e2e1c442")
+	)
+	(junction
+		(at 68.58 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bfadc3ba-4b81-4543-8203-983f5044c50e")
+	)
+	(junction
+		(at 81.28 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c5c2b1fd-3cf9-4c47-9339-bce3b3a5c60d")
+	)
+	(junction
+		(at 86.36 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cccece2b-dbe0-48f9-b1cf-1fc2440101c5")
 	)
 	(junction
-		(at 73.66 82.55)
+		(at 127 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d15945b2-0947-4963-9d01-aa6dba4436cc")
+	)
+	(junction
+		(at 68.58 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d30b95b0-a571-4321-9b67-1f16f4432968")
 	)
 	(junction
-		(at 86.36 72.39)
+		(at 81.28 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d3e2242a-4eb4-456c-8e6b-699908498b2d")
+	)
+	(junction
+		(at 127 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d8ed3d8d-ba0a-4169-984d-7d716a58073a")
+	)
+	(junction
+		(at 81.28 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dc22d354-3b41-4960-a0b2-7fe2070aaa76")
+	)
+	(junction
+		(at 81.28 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e44d2873-a94a-4f9f-b7db-dee0d036d95d")
+	)
+	(junction
+		(at 81.28 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e7fdad61-9cba-4bc0-9ab5-dec5a1e4af0a")
 	)
 	(junction
-		(at 113.03 111.76)
+		(at 64.77 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ebc868ea-a922-4003-817d-0221fd8530f7")
+	)
+	(junction
+		(at 127 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ebf8762a-9712-4ee8-ba44-ffa0cebf675c")
+	)
+	(junction
+		(at 127 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f02a47ef-7b53-4f6a-99b1-19b8cd847c15")
 	)
 	(junction
-		(at 86.36 59.69)
+		(at 81.28 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f2f0e502-7d51-43f4-ab5a-bbfddc051277")
 	)
 	(junction
-		(at 113.03 101.6)
+		(at 64.77 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "fa3ff424-2b8b-4742-af6a-73a1b488cbbb")
+		(uuid "ff639971-0b3a-45ba-89a1-b6aaaef45a60")
 	)
 	(wire
 		(pts
-			(xy 86.36 72.39) (xy 91.44 72.39)
+			(xy 81.28 46.99) (xy 86.36 46.99)
 		)
 		(stroke
 			(width 0)
@@ -1513,7 +1687,17 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 71.12) (xy 73.66 62.23)
+			(xy 68.58 86.36) (xy 127 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0255e22e-d403-4579-bd4b-66fb85564df4")
+	)
+	(wire
+		(pts
+			(xy 68.58 45.72) (xy 68.58 36.83)
 		)
 		(stroke
 			(width 0)
@@ -1523,7 +1707,27 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 72.39) (xy 95.25 72.39)
+			(xy 127 46.99) (xy 133.35 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "075fc28b-981c-4500-9b55-05d5721b6de5")
+	)
+	(wire
+		(pts
+			(xy 97.79 137.16) (xy 101.6 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07caa4de-bfc0-4aa5-9d1d-b3f1ccd02e6b")
+	)
+	(wire
+		(pts
+			(xy 86.36 46.99) (xy 90.17 46.99)
 		)
 		(stroke
 			(width 0)
@@ -1533,7 +1737,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 111.76) (xy 149.86 111.76)
+			(xy 152.4 57.15) (xy 162.56 57.15)
 		)
 		(stroke
 			(width 0)
@@ -1543,7 +1747,37 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 59.69) (xy 69.85 59.69)
+			(xy 127 147.32) (xy 127 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e8ddf00-89e5-47ab-a99c-019b2e39fcb1")
+	)
+	(wire
+		(pts
+			(xy 152.4 116.84) (xy 162.56 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f3121af-0d98-433f-b715-244de3ab207f")
+	)
+	(wire
+		(pts
+			(xy 106.68 124.46) (xy 110.49 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11e45b25-7c78-468c-8277-df7becbf56a4")
+	)
+	(wire
+		(pts
+			(xy 59.69 34.29) (xy 64.77 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1553,7 +1787,77 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 59.69) (xy 91.44 62.23)
+			(xy 68.58 109.22) (xy 68.58 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "140e5a6e-4b55-4d82-948d-d539d84af8bb")
+	)
+	(wire
+		(pts
+			(xy 152.4 81.28) (xy 156.21 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "199367e0-483e-4e16-8e2f-24e2ab5d9bf5")
+	)
+	(wire
+		(pts
+			(xy 81.28 124.46) (xy 86.36 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ae46664-28d3-4f25-b1e3-29bbabccbd5e")
+	)
+	(wire
+		(pts
+			(xy 106.68 63.5) (xy 110.49 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c5baa4a-2a61-4496-ae63-c25ccd8ddee5")
+	)
+	(wire
+		(pts
+			(xy 137.16 81.28) (xy 133.35 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d0323f7-5dd7-429c-bc6c-4c58c6f26658")
+	)
+	(wire
+		(pts
+			(xy 127 106.68) (xy 127 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f3ea08c-4324-44c5-9e22-c190278eaa91")
+	)
+	(wire
+		(pts
+			(xy 97.79 76.2) (xy 101.6 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "252eeb27-985b-4c84-a16d-a6dbc92111f2")
+	)
+	(wire
+		(pts
+			(xy 86.36 34.29) (xy 86.36 36.83)
 		)
 		(stroke
 			(width 0)
@@ -1563,7 +1867,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 106.68) (xy 120.65 101.6)
+			(xy 133.35 52.07) (xy 133.35 46.99)
 		)
 		(stroke
 			(width 0)
@@ -1573,7 +1877,17 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 106.68) (xy 143.51 109.22)
+			(xy 127 93.98) (xy 118.11 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2927bcc0-16b1-4188-859b-65a984238f85")
+	)
+	(wire
+		(pts
+			(xy 156.21 52.07) (xy 156.21 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1583,7 +1897,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 69.85) (xy 86.36 72.39)
+			(xy 81.28 44.45) (xy 81.28 46.99)
 		)
 		(stroke
 			(width 0)
@@ -1593,7 +1907,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 82.55) (xy 73.66 82.55)
+			(xy 59.69 57.15) (xy 137.16 57.15)
 		)
 		(stroke
 			(width 0)
@@ -1603,7 +1917,147 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 82.55) (xy 73.66 71.12)
+			(xy 81.28 66.04) (xy 81.28 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2eeb28d5-b61e-42ee-820e-0f7c06955946")
+	)
+	(wire
+		(pts
+			(xy 116.84 124.46) (xy 118.11 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f108651-76da-4c0d-8558-7b56ab02f175")
+	)
+	(wire
+		(pts
+			(xy 81.28 76.2) (xy 86.36 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30e957f6-163b-44ab-8368-787fb19080c8")
+	)
+	(wire
+		(pts
+			(xy 68.58 147.32) (xy 127 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30fda088-e324-46b6-9f71-a15a3d8a2197")
+	)
+	(wire
+		(pts
+			(xy 137.16 142.24) (xy 133.35 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3593fe8a-93df-4793-9320-fe25d3b071fc")
+	)
+	(wire
+		(pts
+			(xy 81.28 106.68) (xy 86.36 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "370117d0-1d62-430a-bb84-5c3bf3a961a1")
+	)
+	(wire
+		(pts
+			(xy 68.58 139.7) (xy 68.58 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "370411ad-f763-4838-8f8e-469e8938edad")
+	)
+	(wire
+		(pts
+			(xy 86.36 134.62) (xy 86.36 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bea4606-d52a-4d47-a7e1-f2e780c778ad")
+	)
+	(wire
+		(pts
+			(xy 127 46.99) (xy 127 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4234a7ee-4da3-4bd5-ba3b-6d06bb32e501")
+	)
+	(wire
+		(pts
+			(xy 116.84 63.5) (xy 118.11 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "436c3d81-a071-4907-81fb-3fac528eb513")
+	)
+	(wire
+		(pts
+			(xy 156.21 142.24) (xy 156.21 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b8fc5b0-70f1-44c8-a6fb-39e12184b60b")
+	)
+	(wire
+		(pts
+			(xy 127 133.35) (xy 127 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c557c0e-c282-4216-899d-f340f17dd3c6")
+	)
+	(wire
+		(pts
+			(xy 127 116.84) (xy 127 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ebcb6d0-2929-4d18-827a-90f8f7a977aa")
+	)
+	(wire
+		(pts
+			(xy 81.28 93.98) (xy 86.36 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f7aa128-eac2-4dc0-b613-7a0994795703")
+	)
+	(wire
+		(pts
+			(xy 68.58 57.15) (xy 68.58 45.72)
 		)
 		(stroke
 			(width 0)
@@ -1613,7 +2067,127 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 62.23) (xy 64.77 62.23)
+			(xy 133.35 111.76) (xy 133.35 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52474092-d2d4-44a2-b8cb-8110707d910f")
+	)
+	(wire
+		(pts
+			(xy 127 76.2) (xy 127 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53d4ab27-6a1a-4559-bb36-9ef53a0c4d00")
+	)
+	(wire
+		(pts
+			(xy 152.4 142.24) (xy 156.21 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a2b4b0a-fb49-4222-b688-cb458c06ecb0")
+	)
+	(wire
+		(pts
+			(xy 86.36 124.46) (xy 96.52 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a680db5-135e-48eb-bccf-0cfc760a51b3")
+	)
+	(wire
+		(pts
+			(xy 133.35 81.28) (xy 133.35 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ab4314f-4e05-474d-8edb-f16489e4c994")
+	)
+	(wire
+		(pts
+			(xy 59.69 78.74) (xy 68.58 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cc0815e-df50-4346-82a5-a0b96e901767")
+	)
+	(wire
+		(pts
+			(xy 86.36 104.14) (xy 86.36 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ddc867d-8fa7-4e26-9df3-8c1f5aac2c04")
+	)
+	(wire
+		(pts
+			(xy 127 124.46) (xy 118.11 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f780281-773a-4971-b29c-088679f03a80")
+	)
+	(wire
+		(pts
+			(xy 127 137.16) (xy 127 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6336f954-09cb-46a0-8906-d1ed3ea7af43")
+	)
+	(wire
+		(pts
+			(xy 152.4 86.36) (xy 162.56 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65ea5501-b2fe-4fd7-974b-19a04f30ecde")
+	)
+	(wire
+		(pts
+			(xy 64.77 93.98) (xy 64.77 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "672ce0d2-494a-421d-a9a9-78cff54827c7")
+	)
+	(wire
+		(pts
+			(xy 86.36 73.66) (xy 86.36 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6751f9e7-a63d-477e-b72c-8d0fef00e1d8")
+	)
+	(wire
+		(pts
+			(xy 68.58 36.83) (xy 59.69 36.83)
 		)
 		(stroke
 			(width 0)
@@ -1623,7 +2197,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 69.85) (xy 91.44 72.39)
+			(xy 86.36 44.45) (xy 86.36 46.99)
 		)
 		(stroke
 			(width 0)
@@ -1633,27 +2207,37 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 101.6) (xy 113.03 104.14)
+			(xy 127 76.2) (xy 133.35 76.2)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "713b9690-e815-4e0b-9a46-a78ccf103d88")
+		(uuid "70606655-07f3-4c70-a8a1-9adc7a96b292")
 	)
 	(wire
 		(pts
-			(xy 120.65 101.6) (xy 113.03 101.6)
+			(xy 81.28 134.62) (xy 81.28 137.16)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "75205c41-4128-48b2-99c1-4eadac652d46")
+		(uuid "71ec1389-2457-49b3-894d-dc7d9b7de2f8")
 	)
 	(wire
 		(pts
-			(xy 124.46 106.68) (xy 120.65 106.68)
+			(xy 59.69 106.68) (xy 81.28 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75a6981b-2611-4788-9a7f-1a73b27a524c")
+	)
+	(wire
+		(pts
+			(xy 137.16 52.07) (xy 133.35 52.07)
 		)
 		(stroke
 			(width 0)
@@ -1663,7 +2247,17 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 111.76) (xy 113.03 109.22)
+			(xy 86.36 106.68) (xy 90.17 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79935026-1efa-46d8-b704-4cc0ed055dec")
+	)
+	(wire
+		(pts
+			(xy 127 57.15) (xy 127 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1673,17 +2267,47 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 88.9) (xy 113.03 90.17)
+			(xy 81.28 93.98) (xy 64.77 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7f7e139f-3b4b-43e0-a4c6-89f49dde9ea7")
+		(uuid "7b933233-3eeb-4a44-b6a1-4378b2c7f523")
 	)
 	(wire
 		(pts
-			(xy 81.28 72.39) (xy 86.36 72.39)
+			(xy 156.21 111.76) (xy 156.21 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d3b27dc-be0a-46d5-b84f-30c6acd394af")
+	)
+	(wire
+		(pts
+			(xy 127 147.32) (xy 137.16 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e34e910-4766-4d88-805c-696891a723be")
+	)
+	(wire
+		(pts
+			(xy 59.69 137.16) (xy 81.28 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f9296b1-36b6-4ef6-b6e4-2ef706c77672")
+	)
+	(wire
+		(pts
+			(xy 76.2 46.99) (xy 81.28 46.99)
 		)
 		(stroke
 			(width 0)
@@ -1693,7 +2317,17 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 59.69) (xy 86.36 59.69)
+			(xy 68.58 78.74) (xy 68.58 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80ca091f-7c94-485b-aabd-55ef8be8f93e")
+	)
+	(wire
+		(pts
+			(xy 64.77 34.29) (xy 81.28 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1703,7 +2337,17 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 68.58) (xy 69.85 68.58)
+			(xy 127 34.29) (xy 127 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84553da2-c646-4b43-b7e1-89d39f0a730f")
+	)
+	(wire
+		(pts
+			(xy 59.69 43.18) (xy 64.77 43.18)
 		)
 		(stroke
 			(width 0)
@@ -1713,17 +2357,47 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 77.47) (xy 113.03 81.28)
+			(xy 68.58 57.15) (xy 68.58 78.74)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8ea711cf-44aa-46f9-92e8-1f8b6d4c0bff")
+		(uuid "8ab6eace-d860-4cb9-96e4-8157bbecd6ba")
 	)
 	(wire
 		(pts
-			(xy 69.85 59.69) (xy 69.85 68.58)
+			(xy 127 95.25) (xy 127 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e81d6f0-221b-46f2-bd9b-198e135b61b4")
+	)
+	(wire
+		(pts
+			(xy 81.28 127) (xy 81.28 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e8fecad-9b39-4c24-a76b-187ccac8a2f3")
+	)
+	(wire
+		(pts
+			(xy 81.28 96.52) (xy 81.28 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8eb6c82b-cfae-4b26-807a-d578d243a633")
+	)
+	(wire
+		(pts
+			(xy 64.77 34.29) (xy 64.77 43.18)
 		)
 		(stroke
 			(width 0)
@@ -1733,17 +2407,97 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 111.76) (xy 113.03 111.76)
+			(xy 118.11 34.29) (xy 127 34.29)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "96a3f114-86e7-4139-82f9-ee8aa65fd6db")
+		(uuid "9234aa96-2296-4c38-9888-c9dc534805bd")
 	)
 	(wire
 		(pts
-			(xy 102.87 72.39) (xy 105.41 72.39)
+			(xy 127 86.36) (xy 127 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9351223f-5d8d-4ecb-a168-98d612589b15")
+	)
+	(wire
+		(pts
+			(xy 152.4 147.32) (xy 162.56 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97e172d1-b5af-458f-85c0-3ac4dd58cbb2")
+	)
+	(wire
+		(pts
+			(xy 106.68 93.98) (xy 110.49 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98d68949-789e-4320-8ec0-a0d355fead79")
+	)
+	(wire
+		(pts
+			(xy 86.36 124.46) (xy 86.36 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a33cd153-a841-41f7-b3f1-66bc14125f83")
+	)
+	(wire
+		(pts
+			(xy 59.69 109.22) (xy 68.58 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7756a18-fa9f-4ad1-9b8a-230c9ec9e3b8")
+	)
+	(wire
+		(pts
+			(xy 156.21 81.28) (xy 156.21 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a77a33b7-34a6-4edb-8342-59dcac13f498")
+	)
+	(wire
+		(pts
+			(xy 156.21 83.82) (xy 162.56 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac8272a8-bae6-4734-8949-1cedfd438f8e")
+	)
+	(wire
+		(pts
+			(xy 156.21 144.78) (xy 162.56 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "afea31bb-a643-49ed-a945-3c2ee252cf5f")
+	)
+	(wire
+		(pts
+			(xy 97.79 46.99) (xy 101.6 46.99)
 		)
 		(stroke
 			(width 0)
@@ -1753,7 +2507,27 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 72.39) (xy 81.28 80.01)
+			(xy 59.69 76.2) (xy 81.28 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0a042ac-b89a-400a-a090-fbc8c3b699ee")
+	)
+	(wire
+		(pts
+			(xy 101.6 132.08) (xy 101.6 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0ace1b1-9d8f-4110-8c04-cda48d45089c")
+	)
+	(wire
+		(pts
+			(xy 76.2 46.99) (xy 76.2 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1763,27 +2537,147 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 97.79) (xy 113.03 101.6)
+			(xy 127 63.5) (xy 118.11 63.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b5cc253e-a968-4953-8666-4d8049568bee")
+		(uuid "b700f90c-759a-4e2e-9dc0-a37130944b46")
 	)
 	(wire
 		(pts
-			(xy 113.03 67.31) (xy 113.03 59.69)
+			(xy 127 64.77) (xy 127 63.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c241c116-440a-4210-9412-e91a596d7f68")
+		(uuid "b705ff0f-425c-446a-9d63-1fe7e7cbe28e")
 	)
 	(wire
 		(pts
-			(xy 64.77 71.12) (xy 73.66 71.12)
+			(xy 81.28 137.16) (xy 86.36 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8cffb95-303e-4295-bd66-86ee5e13e6d7")
+	)
+	(wire
+		(pts
+			(xy 86.36 137.16) (xy 90.17 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba2522f0-b925-4290-878c-69ad93286252")
+	)
+	(wire
+		(pts
+			(xy 86.36 93.98) (xy 86.36 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb0efa3d-cd22-4c66-8ae1-03afde5fb2c5")
+	)
+	(wire
+		(pts
+			(xy 64.77 63.5) (xy 81.28 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb6440ab-09a9-434e-ace6-226d97a9c1ae")
+	)
+	(wire
+		(pts
+			(xy 86.36 63.5) (xy 96.52 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc94dd0d-1792-4405-a2ec-67e9f492df69")
+	)
+	(wire
+		(pts
+			(xy 156.21 114.3) (xy 162.56 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfcd4cd6-0241-4f95-a817-6fe4f9e487e2")
+	)
+	(wire
+		(pts
+			(xy 81.28 63.5) (xy 86.36 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c14f0cd1-cb52-4136-bc53-2e5868a2ff48")
+	)
+	(wire
+		(pts
+			(xy 106.68 34.29) (xy 110.49 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4f5b20e-b491-46cb-b268-dfe3229d9bd6")
+	)
+	(wire
+		(pts
+			(xy 127 102.87) (xy 127 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5167589-27d5-4f01-a7b4-67bbedec8e84")
+	)
+	(wire
+		(pts
+			(xy 127 106.68) (xy 133.35 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8f242d7-f3f6-424b-a8d3-20245d66da7f")
+	)
+	(wire
+		(pts
+			(xy 81.28 124.46) (xy 64.77 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc92a23d-d184-46d6-8789-51eb2046c3a4")
+	)
+	(wire
+		(pts
+			(xy 86.36 76.2) (xy 90.17 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfe19bd2-81aa-4d11-8533-81cd20385b8b")
+	)
+	(wire
+		(pts
+			(xy 59.69 45.72) (xy 68.58 45.72)
 		)
 		(stroke
 			(width 0)
@@ -1793,17 +2687,27 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 111.76) (xy 113.03 111.76)
+			(xy 81.28 104.14) (xy 81.28 106.68)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d6d029d7-872e-4690-8e05-8f7a812791c0")
+		(uuid "d2d434ca-f707-4f13-ade3-3032af6b1f00")
 	)
 	(wire
 		(pts
-			(xy 64.77 80.01) (xy 81.28 80.01)
+			(xy 137.16 111.76) (xy 133.35 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5549edf-5c23-43ae-b198-b5e9f0f5bf57")
+	)
+	(wire
+		(pts
+			(xy 59.69 54.61) (xy 76.2 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1813,7 +2717,17 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 59.69) (xy 113.03 59.69)
+			(xy 64.77 43.18) (xy 64.77 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d78924d5-9fd8-4587-a2f3-0500a499f715")
+	)
+	(wire
+		(pts
+			(xy 86.36 34.29) (xy 96.52 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1823,7 +2737,17 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 59.69) (xy 91.44 59.69)
+			(xy 127 43.18) (xy 127 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d882a9b9-72f5-4de3-b5f7-ad1f694c83a0")
+	)
+	(wire
+		(pts
+			(xy 81.28 34.29) (xy 86.36 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1833,17 +2757,27 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 111.76) (xy 73.66 82.55)
+			(xy 152.4 111.76) (xy 156.21 111.76)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "db9c35cc-f7c9-4ee7-9edf-1a76aceb0d10")
+		(uuid "db5af919-19bb-4657-9bd3-b15e6a76f312")
 	)
 	(wire
 		(pts
-			(xy 139.7 106.68) (xy 143.51 106.68)
+			(xy 116.84 93.98) (xy 118.11 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbc5bd4c-d800-45a0-aca1-e6aaea4f53e4")
+	)
+	(wire
+		(pts
+			(xy 152.4 52.07) (xy 156.21 52.07)
 		)
 		(stroke
 			(width 0)
@@ -1853,7 +2787,107 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 62.23) (xy 86.36 59.69)
+			(xy 81.28 73.66) (xy 81.28 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc86cb2e-6ffa-4f39-ace7-29f2317d8d54")
+	)
+	(wire
+		(pts
+			(xy 86.36 93.98) (xy 96.52 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc97cd5e-5795-4380-9e23-c133d1158d20")
+	)
+	(wire
+		(pts
+			(xy 127 72.39) (xy 127 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dceec7a0-52bf-4308-9df5-9da36cf1f875")
+	)
+	(wire
+		(pts
+			(xy 59.69 139.7) (xy 68.58 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd2dd965-21ea-4a3c-8cf8-336308b1b741")
+	)
+	(wire
+		(pts
+			(xy 101.6 71.12) (xy 101.6 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df138cb4-2e02-4697-a990-80edc6d32ae5")
+	)
+	(wire
+		(pts
+			(xy 127 86.36) (xy 137.16 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1216115-cd54-4147-bd46-a50a0aaaea55")
+	)
+	(wire
+		(pts
+			(xy 86.36 63.5) (xy 86.36 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e28cfc69-e6f8-48e2-9617-3dd41b5a821b")
+	)
+	(wire
+		(pts
+			(xy 68.58 139.7) (xy 68.58 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3f4f2ea-d648-46b5-ac03-e442ebe0ac3e")
+	)
+	(wire
+		(pts
+			(xy 101.6 101.6) (xy 101.6 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e555f7ff-8027-4557-b13f-6ed0ea012bc5")
+	)
+	(wire
+		(pts
+			(xy 101.6 41.91) (xy 101.6 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e669930b-78b0-4131-bd9b-3a91c90bb7ac")
+	)
+	(wire
+		(pts
+			(xy 81.28 36.83) (xy 81.28 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1863,7 +2897,47 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 109.22) (xy 149.86 109.22)
+			(xy 68.58 109.22) (xy 68.58 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2ea418e-7940-45a8-a6cb-ed65138a8eab")
+	)
+	(wire
+		(pts
+			(xy 133.35 142.24) (xy 133.35 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3205cad-b9e9-4503-a49b-fe396c7a18e4")
+	)
+	(wire
+		(pts
+			(xy 97.79 106.68) (xy 101.6 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f345738d-5f22-4bc2-87d1-e5ce45c9eb94")
+	)
+	(wire
+		(pts
+			(xy 127 137.16) (xy 133.35 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5166cd1-b47e-4587-b374-62ecca5aefaa")
+	)
+	(wire
+		(pts
+			(xy 156.21 54.61) (xy 162.56 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1871,8 +2945,48 @@
 		)
 		(uuid "f800fd97-f71f-44ca-a3aa-3d369fe6ce89")
 	)
+	(wire
+		(pts
+			(xy 127 116.84) (xy 137.16 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f85bc0cd-7f11-4578-8590-778d05b05742")
+	)
+	(wire
+		(pts
+			(xy 64.77 124.46) (xy 64.77 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdeaac77-d4e9-42ee-8869-41b6f417e5ce")
+	)
+	(wire
+		(pts
+			(xy 68.58 116.84) (xy 127 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdf1ff7b-a617-4491-9567-e35db67cf0e2")
+	)
+	(wire
+		(pts
+			(xy 127 125.73) (xy 127 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff2624e7-a20d-40bc-b2ea-89e0c59229d4")
+	)
 	(label "DCC Out Gnd"
-		(at 58.42 72.39 180)
+		(at 53.34 46.99 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1881,8 +2995,38 @@
 		)
 		(uuid "00cf0f64-a112-43e9-9907-4e3fa075d097")
 	)
+	(label "MCU Input"
+		(at 168.91 146.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "02d99fd2-b5e5-46f6-9762-a16ac9ba4989")
+	)
+	(label "DCC Track_3 Power"
+		(at 53.34 138.43 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3b45c349-5cb2-4cfb-b57d-64a7062d336a")
+	)
+	(label "DCC Track_1 Gnd"
+		(at 53.34 80.01 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "43a2a630-5a7c-4d6f-bee0-9bfcbc25456c")
+	)
 	(label "DCC In Power"
-		(at 58.42 60.96 180)
+		(at 53.34 35.56 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1892,7 +3036,7 @@
 		(uuid "4482f8bf-1448-4988-bb6d-666c5437a9d5")
 	)
 	(label "DCC Out Power"
-		(at 58.42 69.85 180)
+		(at 53.34 44.45 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1901,8 +3045,8 @@
 		)
 		(uuid "4fb31886-d136-42bc-8490-678bce3fed57")
 	)
-	(label "DCC Track Gnd"
-		(at 58.42 83.82 180)
+	(label "DCC Track_0 Gnd"
+		(at 53.34 58.42 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1911,8 +3055,38 @@
 		)
 		(uuid "5351f6d7-f32c-401f-b0b8-59cec3597315")
 	)
+	(label "MCU Gnd"
+		(at 168.91 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "58896d9b-cade-48f8-9d19-34deea358d12")
+	)
+	(label "MCU Gnd"
+		(at 168.91 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5bd89252-b0cc-4de2-b440-ad8af5276e1a")
+	)
+	(label "DCC Track_2 Gnd"
+		(at 53.34 110.49 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "768eca9b-ff7c-4251-8e31-b4de6bcb01f5")
+	)
 	(label "MCU Input"
-		(at 156.21 110.49 0)
+		(at 168.91 55.88 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1921,8 +3095,8 @@
 		)
 		(uuid "acb9861b-7073-4449-b081-c835ff4c0404")
 	)
-	(label "DCC Track Power"
-		(at 58.42 81.28 180)
+	(label "DCC Track_0 Power"
+		(at 53.34 55.88 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1931,8 +3105,18 @@
 		)
 		(uuid "c88439b5-bf8c-4217-9956-35b3fd0aa952")
 	)
+	(label "DCC Track_3 Gnd"
+		(at 53.34 140.97 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cb5e6ab1-1631-42dc-be38-fa7e66fd24ed")
+	)
 	(label "DCC In Gnd"
-		(at 58.42 63.5 180)
+		(at 53.34 38.1 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1941,8 +3125,48 @@
 		)
 		(uuid "d07de9fa-6de8-4335-a013-df2c3708f47f")
 	)
+	(label "MCU Input"
+		(at 168.91 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d820152e-01d5-470c-a097-5e8c85952154")
+	)
+	(label "DCC Track_1 Power"
+		(at 53.34 77.47 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "df02bec9-ebec-4ed2-b0c0-363db95c6a80")
+	)
+	(label "MCU Input"
+		(at 168.91 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e4ebf644-04c8-42c2-ad5e-4ac8c7786bb2")
+	)
 	(label "MCU Gnd"
-		(at 156.21 113.03 0)
+		(at 168.91 148.59 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e5f1f3f9-704d-4d2d-94e9-a68738e4a721")
+	)
+	(label "MCU Gnd"
+		(at 168.91 58.42 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1951,9 +3175,19 @@
 		)
 		(uuid "f231b782-7e70-498e-b390-6e92567bd5d8")
 	)
+	(label "DCC Track_2 Power"
+		(at 53.34 107.95 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f6df2fb0-37ce-476b-9853-d30990060eb7")
+	)
 	(symbol
-		(lib_id "Device:R")
-		(at 113.03 85.09 180)
+		(lib_id "Diode:1N5400")
+		(at 81.28 69.85 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1961,32 +3195,133 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1573ab5e-2934-441b-995a-1b24d32220f0")
-		(property "Reference" "R1"
-			(at 115.57 83.8199 0)
+		(uuid "0709161b-0f11-4aef-adcb-5803d6ce881c")
+		(property "Reference" "D4"
+			(at 79.502 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "1K8"
-			(at 115.57 86.3599 0)
+		(property "Value" "1N5400 or S5AC"
+			(at 81.534 52.832 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-201AD_P15.24mm_Horizontal"
+			(at 85.725 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.vishay.com/docs/88516/1n5400.pdf"
+			(at 81.28 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "50V 3A General Purpose Rectifier Diode, DO-201AD"
+			(at 81.28 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 81.28 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 81.28 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2bc6c6b1-dbbb-41d5-90db-16f4c79b219b")
+		)
+		(pin "2"
+			(uuid "e015cead-7de2-4bc3-bdac-5579eff4c7cc")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized_Small")
+		(at 127 142.24 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "12591e1a-777d-4e46-8d0a-e5f012fb41f3")
+		(property "Reference" "C4"
+			(at 120.396 141.986 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10 µF"
+			(at 120.396 144.526 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 114.808 85.09 90)
+			(at 127 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1997,7 +3332,89 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 113.03 85.09 0)
+			(at 127 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Polarized capacitor, small symbol"
+			(at 127 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c38d22d8-5df6-4c0b-9e5f-af0e412e2ddd")
+		)
+		(pin "1"
+			(uuid "5c44bc5f-edee-4674-942a-437b44059762")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 114.3 34.29 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1573ab5e-2934-441b-995a-1b24d32220f0")
+		(property "Reference" "R1"
+			(at 113.0299 31.75 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1K8"
+			(at 115.5699 31.75 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 114.3 32.512 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2008,7 +3425,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 113.03 85.09 0)
+			(at 114.3 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2034,8 +3451,255 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 167.64 116.84 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "167bafe1-221c-4947-aaf1-be833bce449f")
+		(property "Reference" "J12"
+			(at 163.576 110.236 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 169.164 109.474 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical"
+			(at 167.64 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 167.64 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7a7ce349-609f-4d9f-ae74-4cb2e2ce4724")
+		)
+		(pin "2"
+			(uuid "d416fffd-b385-4f3a-b239-95d7618f26c5")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "J12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 114.3 63.5 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1ddb6b03-057c-4ead-85ce-0cc4ad00867e")
+		(property "Reference" "R4"
+			(at 113.0299 60.96 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1K8"
+			(at 115.5699 60.96 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 114.3 61.722 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 114.3 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4a82e758-d2fd-4b2e-90e9-f1a9d3ab1fee")
+		)
+		(pin "1"
+			(uuid "e40b1479-7558-40eb-9ffc-899a615f483f")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 54.61 78.74 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2018ecca-99f2-42fc-851b-427c5212c83f")
+		(property "Reference" "J4"
+			(at 56.134 73.66 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 53.086 71.374 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical"
+			(at 54.61 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 54.61 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f7b6dded-912f-4e82-8964-34305176bfbe")
+		)
+		(pin "2"
+			(uuid "d5a476e1-0ce3-422a-a361-6f92aee2c63f")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Isolator:PC817")
-		(at 132.08 109.22 0)
+		(at 144.78 54.61 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2046,7 +3710,7 @@
 		(fields_autoplaced yes)
 		(uuid "221848e4-8407-4621-b9ab-752a207faa51")
 		(property "Reference" "U1"
-			(at 132.08 100.33 0)
+			(at 144.78 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2056,7 +3720,7 @@
 			)
 		)
 		(property "Value" "PC817"
-			(at 132.08 102.87 0)
+			(at 144.78 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2066,7 +3730,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-4_W7.62mm"
-			(at 127 114.3 0)
+			(at 139.7 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2079,7 +3743,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.soselectronic.cz/a_info/resource/d/pc817.pdf"
-			(at 132.08 109.22 0)
+			(at 144.78 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2091,7 +3755,7 @@
 			)
 		)
 		(property "Description" "DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"
-			(at 132.08 109.22 0)
+			(at 144.78 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2123,8 +3787,119 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_BJT:BC856")
+		(at 101.6 66.04 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "22fa3ae4-44e6-4af6-996f-0ce1282d4f93")
+		(property "Reference" "Q2"
+			(at 99.06 61.722 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BC856 or BC557"
+			(at 101.6 53.086 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 99.695 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC860-D.pdf"
+			(at 101.6 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "0.1A Ic, 65V Vce, PNP Transistor, SOT-23"
+			(at 101.6 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "PNP"
+			(at 101.6 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=B 2=E 3=C"
+			(at 101.6 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "e5654e9d-7f74-472a-88f9-6d856a45039c")
+		)
+		(pin "2"
+			(uuid "ae84e9ec-becc-4740-bef1-14ff00a525d4")
+		)
+		(pin "1"
+			(uuid "b6e7609c-5970-49d2-a15b-af3a98db35ae")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "Q2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N5400")
-		(at 91.44 66.04 270)
+		(at 86.36 40.64 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2134,7 +3909,7 @@
 		(dnp no)
 		(uuid "23e480d7-999a-4a45-90c4-7743e7bb4166")
 		(property "Reference" "D2"
-			(at 89.408 62.484 0)
+			(at 84.328 37.084 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2144,7 +3919,7 @@
 			)
 		)
 		(property "Value" "1N5400"
-			(at 87.63 66.04 0)
+			(at 82.55 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2155,7 +3930,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-201AD_P15.24mm_Horizontal"
-			(at 86.995 66.04 0)
+			(at 81.915 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2166,7 +3941,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/88516/1n5400.pdf"
-			(at 91.44 66.04 0)
+			(at 86.36 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2177,7 +3952,7 @@
 			)
 		)
 		(property "Description" "50V 3A General Purpose Rectifier Diode, DO-201AD"
-			(at 91.44 66.04 0)
+			(at 86.36 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2188,7 +3963,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 91.44 66.04 0)
+			(at 86.36 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2199,7 +3974,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 91.44 66.04 0)
+			(at 86.36 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2226,7 +4001,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 59.69 62.23 0)
+		(at 54.61 36.83 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -2237,7 +4012,7 @@
 		(dnp no)
 		(uuid "3d6f21b7-c444-46c0-a7b4-be87b4928447")
 		(property "Reference" "J1"
-			(at 61.468 56.388 0)
+			(at 56.388 30.988 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2248,7 +4023,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 58.166 54.864 0)
+			(at 53.086 29.464 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2260,7 +4035,7 @@
 			)
 		)
 		(property "Footprint" "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical"
-			(at 59.69 62.23 0)
+			(at 54.61 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2271,7 +4046,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 59.69 62.23 0)
+			(at 54.61 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2282,7 +4057,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 59.69 62.23 0)
+			(at 54.61 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2308,8 +4083,271 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 93.98 76.2 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4ba1bfd3-6853-413e-a229-5659d43da753")
+		(property "Reference" "R3"
+			(at 93.98 69.85 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10R"
+			(at 93.98 72.39 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 74.422 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 93.98 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4a717501-40e5-4360-bda0-00d5b29942e6")
+		)
+		(pin "1"
+			(uuid "7013429a-4c55-4a92-88b5-20e89bc537d0")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized_Small")
+		(at 127 81.28 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "520ae278-09f5-4bc4-aeca-d58b7bb416e9")
+		(property "Reference" "C2"
+			(at 120.396 81.026 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10 µF"
+			(at 120.396 83.566 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 127 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Polarized capacitor, small symbol"
+			(at 127 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d34d282c-a6e6-401f-af59-7c7f9ffa795c")
+		)
+		(pin "1"
+			(uuid "9a82b7ba-42a0-4038-9330-6cef2b90f14d")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N5400")
+		(at 81.28 100.33 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5783fd64-68ab-435a-a6d6-ce7a5221294d")
+		(property "Reference" "D7"
+			(at 79.502 96.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N5400 or S5AC"
+			(at 81.534 83.312 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-201AD_P15.24mm_Horizontal"
+			(at 85.725 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.vishay.com/docs/88516/1n5400.pdf"
+			(at 81.28 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "50V 3A General Purpose Rectifier Diode, DO-201AD"
+			(at 81.28 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 81.28 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 81.28 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cc5f4ff0-7d95-49d2-a312-3a8774eab7b3")
+		)
+		(pin "2"
+			(uuid "83bbe078-cedc-4234-bd49-af035614a2bf")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 59.69 82.55 0)
+		(at 54.61 57.15 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -2320,7 +4358,7 @@
 		(dnp no)
 		(uuid "5b8bc9e9-4460-4aaf-b86f-b8a0b656383e")
 		(property "Reference" "J3"
-			(at 61.214 77.47 0)
+			(at 56.134 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2331,7 +4369,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 58.166 75.184 0)
+			(at 53.086 49.784 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2343,7 +4381,7 @@
 			)
 		)
 		(property "Footprint" "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical"
-			(at 59.69 82.55 0)
+			(at 54.61 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2354,7 +4392,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 59.69 82.55 0)
+			(at 54.61 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2365,7 +4403,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 59.69 82.55 0)
+			(at 54.61 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2391,8 +4429,8 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:IR26-21C_L110_TR8")
-		(at 113.03 93.98 90)
+		(lib_id "Device:R")
+		(at 114.3 93.98 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2400,9 +4438,275 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "785b3f3b-a7e4-4718-8d93-7c4397f9199c")
-		(property "Reference" "D3"
-			(at 108.458 94.234 90)
+		(fields_autoplaced yes)
+		(uuid "5e5b10d8-cd11-4e48-9184-90f0420fe6ed")
+		(property "Reference" "R6"
+			(at 113.0299 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1K8"
+			(at 115.5699 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 114.3 92.202 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 114.3 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3b96b243-fdb9-46fe-a811-0971461daff4")
+		)
+		(pin "1"
+			(uuid "c0dd9032-6ff8-4394-8159-1971a6e9a4f7")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N5400")
+		(at 86.36 69.85 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5edbbfb8-4675-4be1-bd63-8b79d0ddcf7e")
+		(property "Reference" "D5"
+			(at 84.328 66.294 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N5400"
+			(at 82.55 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-201AD_P15.24mm_Horizontal"
+			(at 81.915 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.vishay.com/docs/88516/1n5400.pdf"
+			(at 86.36 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "50V 3A General Purpose Rectifier Diode, DO-201AD"
+			(at 86.36 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 86.36 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 86.36 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "766a8279-0c1f-4a52-a472-8262b869ffa1")
+		)
+		(pin "2"
+			(uuid "d61b4192-2f2c-48b8-8afa-5e3f6e392920")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 167.64 86.36 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "60721904-b66c-482a-af28-d113f4168e2c")
+		(property "Reference" "J11"
+			(at 163.576 79.756 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 169.164 78.994 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical"
+			(at 167.64 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 167.64 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b76e19be-6115-4ace-878d-a742fdf6be8c")
+		)
+		(pin "2"
+			(uuid "186e0e3f-1428-4159-90a1-393a1914297e")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "J11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED:IR26-21C_L110_TR8")
+		(at 127 129.54 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "62eecb89-c50b-44f2-b22a-ba7d1a9d7682")
+		(property "Reference" "D12"
+			(at 122.428 129.794 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2413,7 +4717,7 @@
 			)
 		)
 		(property "Value" "IR26-21C_L110_TR8"
-			(at 118.11 95.5675 0)
+			(at 132.08 131.1275 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2424,7 +4728,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
-			(at 107.95 93.98 0)
+			(at 121.92 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2435,7 +4739,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.everlight.com/file/ProductFile/IR26-21C-L110-TR8.pdf"
-			(at 113.03 93.98 0)
+			(at 127 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2446,7 +4750,249 @@
 			)
 		)
 		(property "Description" "940nm, 20 deg, Infrared LED, 1206"
-			(at 113.03 93.98 0)
+			(at 127 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b4eac5b5-3130-460e-b41a-01562bb78bfc")
+		)
+		(pin "2"
+			(uuid "06ce8e16-ef6a-402a-a9c3-359e11debf58")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED:IR26-21C_L110_TR8")
+		(at 127 99.06 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6dbe5ec0-ccd1-40c0-a147-d7c47a1edcfb")
+		(property "Reference" "D9"
+			(at 122.428 99.314 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "IR26-21C_L110_TR8"
+			(at 132.08 100.6475 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+			(at 121.92 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.everlight.com/file/ProductFile/IR26-21C-L110-TR8.pdf"
+			(at 127 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "940nm, 20 deg, Infrared LED, 1206"
+			(at 127 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "14e3cf37-260f-4c56-ae27-1b4810e71db8")
+		)
+		(pin "2"
+			(uuid "105f1c0f-91a0-43a3-a3ff-f5bccd911d9b")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 93.98 106.68 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7609b39f-99b0-4788-ac01-8d5c94435950")
+		(property "Reference" "R5"
+			(at 93.98 100.33 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10R"
+			(at 93.98 102.87 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 104.902 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 93.98 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "5a6c1c9e-4a15-454d-9d63-140e143cb6d0")
+		)
+		(pin "1"
+			(uuid "fd6fb129-f7dd-4973-97a1-c5ac7ca91511")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED:IR26-21C_L110_TR8")
+		(at 127 39.37 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "785b3f3b-a7e4-4718-8d93-7c4397f9199c")
+		(property "Reference" "D3"
+			(at 122.428 39.624 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "IR26-21C_L110_TR8"
+			(at 132.08 40.9575 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+			(at 121.92 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.everlight.com/file/ProductFile/IR26-21C-L110-TR8.pdf"
+			(at 127 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "940nm, 20 deg, Infrared LED, 1206"
+			(at 127 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2472,8 +5018,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N5400")
-		(at 86.36 66.04 90)
+		(lib_id "Device:R")
+		(at 93.98 137.16 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2481,9 +5027,89 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "b8d30bf7-b21d-479b-8c4f-4aba723d0003")
-		(property "Reference" "D1"
-			(at 84.582 62.23 0)
+		(fields_autoplaced yes)
+		(uuid "86447aea-c56f-4982-a0d9-ad06e49b9b71")
+		(property "Reference" "R7"
+			(at 93.98 130.81 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10R"
+			(at 93.98 133.35 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 135.382 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 93.98 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a9c39c5a-dc87-4da9-b1b8-751ed8f79e7d")
+		)
+		(pin "1"
+			(uuid "93800265-34d4-428f-a356-c89c5d65fcb2")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N5400")
+		(at 81.28 130.81 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "94b1ff45-95ff-4c95-87c7-8058f678e930")
+		(property "Reference" "D10"
+			(at 79.502 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2493,7 +5119,8 @@
 			)
 		)
 		(property "Value" "1N5400 or S5AC"
-			(at 88.392 57.15 90)
+			(at 81.534 113.792 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2503,7 +5130,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-201AD_P15.24mm_Horizontal"
-			(at 90.805 66.04 0)
+			(at 85.725 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2514,7 +5141,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/88516/1n5400.pdf"
-			(at 86.36 66.04 0)
+			(at 81.28 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2525,7 +5152,7 @@
 			)
 		)
 		(property "Description" "50V 3A General Purpose Rectifier Diode, DO-201AD"
-			(at 86.36 66.04 0)
+			(at 81.28 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2536,7 +5163,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 86.36 66.04 0)
+			(at 81.28 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2547,7 +5174,911 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 86.36 66.04 0)
+			(at 81.28 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9af51501-f579-41ee-854b-b9e495610799")
+		)
+		(pin "2"
+			(uuid "a2e5f239-5f62-4375-bb3b-cf73b8290b7d")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "D10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 114.3 124.46 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "98bfd7bf-3b7f-4d8d-af1a-62d6d7b1a3e2")
+		(property "Reference" "R8"
+			(at 113.0299 121.92 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1K8"
+			(at 115.5699 121.92 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 114.3 122.682 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 114.3 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d765ae1c-c6e6-4eaa-908d-366a8b2d4b06")
+		)
+		(pin "1"
+			(uuid "bc53a5bd-5014-4225-af61-1688a29f0b03")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 54.61 109.22 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9ea1d721-7a27-43df-b4ea-33209bf1791d")
+		(property "Reference" "J5"
+			(at 56.134 104.14 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 53.086 101.854 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical"
+			(at 54.61 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 54.61 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "53ef8f50-6887-4a63-9786-2fc9b63a9625")
+		)
+		(pin "2"
+			(uuid "a6a63be9-685a-4ba4-9e2c-f839cba20ec7")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_BJT:BC856")
+		(at 101.6 127 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9f18574a-154c-43c5-bec8-77124ca842c5")
+		(property "Reference" "Q4"
+			(at 99.06 122.682 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BC856 or BC557"
+			(at 101.6 114.046 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 99.695 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC860-D.pdf"
+			(at 101.6 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "0.1A Ic, 65V Vce, PNP Transistor, SOT-23"
+			(at 101.6 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "PNP"
+			(at 101.6 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=B 2=E 3=C"
+			(at 101.6 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "d66d875f-01d3-4c83-9d9f-937a515c96b9")
+		)
+		(pin "2"
+			(uuid "1e1a5362-c645-4165-a3d2-fb82b1db0a2e")
+		)
+		(pin "1"
+			(uuid "3b6c42c6-369b-4b1c-a46b-b87a102361f8")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "Q4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized_Small")
+		(at 127 111.76 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9fe3343d-e3b6-45f9-9aa5-dee929775841")
+		(property "Reference" "C3"
+			(at 120.396 111.506 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10 µF"
+			(at 120.396 114.046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 127 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Polarized capacitor, small symbol"
+			(at 127 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "30efcf21-6024-448c-a417-07738721317c")
+		)
+		(pin "1"
+			(uuid "e99887f2-fc5a-4f6a-a779-cdcf92be5112")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 54.61 139.7 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a4c48802-9eb5-40ce-beb6-43b9f27fb02c")
+		(property "Reference" "J6"
+			(at 56.134 134.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 53.086 132.334 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical"
+			(at 54.61 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 54.61 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "07d2af9b-911d-44d7-a658-ef054767c328")
+		)
+		(pin "2"
+			(uuid "4741d6d5-5678-4916-bf9b-3b159199042d")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_BJT:BC856")
+		(at 101.6 96.52 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a573d720-3444-4e73-b818-b4153e590481")
+		(property "Reference" "Q3"
+			(at 99.06 92.202 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BC856 or BC557"
+			(at 101.6 83.566 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 99.695 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC860-D.pdf"
+			(at 101.6 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "0.1A Ic, 65V Vce, PNP Transistor, SOT-23"
+			(at 101.6 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "PNP"
+			(at 101.6 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=B 2=E 3=C"
+			(at 101.6 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "b8045238-a661-4ffd-af55-b08663625797")
+		)
+		(pin "2"
+			(uuid "9f9ce454-72d6-472b-bb18-e977cb8ee344")
+		)
+		(pin "1"
+			(uuid "633f26cf-efde-4f0e-a62c-88889c15316e")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "Q3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED:IR26-21C_L110_TR8")
+		(at 127 68.58 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a68685c6-c849-4426-8bb6-5542b7047d7a")
+		(property "Reference" "D6"
+			(at 122.428 68.834 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "IR26-21C_L110_TR8"
+			(at 132.08 70.1675 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+			(at 121.92 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.everlight.com/file/ProductFile/IR26-21C-L110-TR8.pdf"
+			(at 127 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "940nm, 20 deg, Infrared LED, 1206"
+			(at 127 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5e4abc35-9673-4ef9-a9db-fa0383ddbead")
+		)
+		(pin "2"
+			(uuid "56617f9f-af75-4499-a8f0-ae4faa40e508")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 167.64 147.32 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "abc19566-2c2a-42d9-a511-0986c6ecfaa6")
+		(property "Reference" "J13"
+			(at 163.576 140.716 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 169.164 139.954 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical"
+			(at 167.64 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 167.64 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fcfa5a1f-59a1-4f22-9259-caffd9775000")
+		)
+		(pin "2"
+			(uuid "0023ddb1-8e34-495c-acb3-4d8dba80f2b8")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "J13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Isolator:PC817")
+		(at 144.78 144.78 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "add7ca3c-00b3-4dc1-9b8f-736d9ba3e513")
+		(property "Reference" "U4"
+			(at 144.78 135.89 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PC817"
+			(at 144.78 138.43 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-4_W7.62mm"
+			(at 139.7 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "http://www.soselectronic.cz/a_info/resource/d/pc817.pdf"
+			(at 144.78 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"
+			(at 144.78 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "2103f5c9-b3ee-4322-9f2f-648c2bbc4696")
+		)
+		(pin "3"
+			(uuid "3dfb0303-c9b3-4215-b5bb-68f06c8f2c75")
+		)
+		(pin "1"
+			(uuid "2329f4a2-8347-4cb7-923d-9109d91c55c8")
+		)
+		(pin "4"
+			(uuid "56e856d4-dc95-404d-8aea-83b90dda6009")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N5400")
+		(at 81.28 40.64 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b8d30bf7-b21d-479b-8c4f-4aba723d0003")
+		(property "Reference" "D1"
+			(at 79.502 36.83 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N5400 or S5AC"
+			(at 81.534 23.622 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-201AD_P15.24mm_Horizontal"
+			(at 85.725 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.vishay.com/docs/88516/1n5400.pdf"
+			(at 81.28 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "50V 3A General Purpose Rectifier Diode, DO-201AD"
+			(at 81.28 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 81.28 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 81.28 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2574,7 +6105,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 154.94 111.76 180)
+		(at 167.64 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2583,8 +6114,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bb174210-14eb-4e95-9bde-5357eed56597")
-		(property "Reference" "J2"
-			(at 150.876 105.156 0)
+		(property "Reference" "J10"
+			(at 163.576 50.546 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2595,7 +6126,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 156.464 104.394 0)
+			(at 169.164 49.784 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2607,7 +6138,7 @@
 			)
 		)
 		(property "Footprint" "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical"
-			(at 154.94 111.76 0)
+			(at 167.64 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2618,7 +6149,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 111.76 0)
+			(at 167.64 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2629,7 +6160,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 154.94 111.76 0)
+			(at 167.64 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2648,7 +6179,96 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "J2")
+					(reference "J10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Isolator:PC817")
+		(at 144.78 83.82 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bb3bd163-527e-4e3d-9df2-54513cd2a7dd")
+		(property "Reference" "U2"
+			(at 144.78 74.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PC817"
+			(at 144.78 77.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-4_W7.62mm"
+			(at 139.7 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "http://www.soselectronic.cz/a_info/resource/d/pc817.pdf"
+			(at 144.78 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"
+			(at 144.78 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4b1ac135-1c70-4bb4-8c61-dea3599140ef")
+		)
+		(pin "3"
+			(uuid "b14575a6-29a7-4861-b742-9855e65e80ef")
+		)
+		(pin "1"
+			(uuid "acf73837-cbe1-4062-b72e-b115e3a8ecab")
+		)
+		(pin "4"
+			(uuid "d7426bb7-032f-4490-a82e-69c19a66c854")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -2656,7 +6276,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 59.69 71.12 0)
+		(at 54.61 45.72 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -2667,7 +6287,7 @@
 		(dnp no)
 		(uuid "c2bc72a7-3281-4b4b-a179-c9b3395fb4e6")
 		(property "Reference" "J2"
-			(at 61.214 66.04 0)
+			(at 56.134 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2678,7 +6298,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 58.166 63.754 0)
+			(at 53.086 38.354 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2690,7 +6310,7 @@
 			)
 		)
 		(property "Footprint" "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical"
-			(at 59.69 71.12 0)
+			(at 54.61 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2701,7 +6321,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 59.69 71.12 0)
+			(at 54.61 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2712,7 +6332,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 59.69 71.12 0)
+			(at 54.61 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2738,8 +6358,199 @@
 		)
 	)
 	(symbol
+		(lib_id "Isolator:PC817")
+		(at 144.78 114.3 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cdd2db9e-0af3-452a-81d6-f7f40a72df7c")
+		(property "Reference" "U3"
+			(at 144.78 105.41 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PC817"
+			(at 144.78 107.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-4_W7.62mm"
+			(at 139.7 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "http://www.soselectronic.cz/a_info/resource/d/pc817.pdf"
+			(at 144.78 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"
+			(at 144.78 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "33bf8e79-2587-45a0-a3b7-31488abf2e72")
+		)
+		(pin "3"
+			(uuid "9d5bfdd0-3e1c-4c04-83bf-6d686e453ed7")
+		)
+		(pin "1"
+			(uuid "a8791e28-5a0a-46cc-ad25-d2a48ae4ef21")
+		)
+		(pin "4"
+			(uuid "71c1b2c3-3651-46ce-af70-c1da5e232294")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N5400")
+		(at 86.36 130.81 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d392f4d8-ab9a-4868-a83b-a7887c6a790c")
+		(property "Reference" "D11"
+			(at 84.328 127.254 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N5400"
+			(at 82.55 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-201AD_P15.24mm_Horizontal"
+			(at 81.915 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.vishay.com/docs/88516/1n5400.pdf"
+			(at 86.36 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "50V 3A General Purpose Rectifier Diode, DO-201AD"
+			(at 86.36 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 86.36 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 86.36 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2e371cc7-4538-490d-93af-a15202856520")
+		)
+		(pin "2"
+			(uuid "6f51011f-9bca-49a4-b76c-67a8057f5f34")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "D11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_BJT:BC856")
-		(at 110.49 72.39 0)
+		(at 101.6 36.83 270)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -2750,7 +6561,7 @@
 		(dnp no)
 		(uuid "d4071a56-2df4-49f2-b18a-a53e5d2442a5")
 		(property "Reference" "Q1"
-			(at 114.808 69.85 0)
+			(at 99.06 32.512 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2761,7 +6572,7 @@
 			)
 		)
 		(property "Value" "BC856 or BC557"
-			(at 105.664 56.896 0)
+			(at 101.6 23.876 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2772,7 +6583,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 115.57 70.485 0)
+			(at 99.695 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2785,7 +6596,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC860-D.pdf"
-			(at 110.49 72.39 0)
+			(at 101.6 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2797,7 +6608,7 @@
 			)
 		)
 		(property "Description" "0.1A Ic, 65V Vce, PNP Transistor, SOT-23"
-			(at 110.49 72.39 0)
+			(at 101.6 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2808,7 +6619,7 @@
 			)
 		)
 		(property "Sim.Device" "PNP"
-			(at 110.49 72.39 0)
+			(at 101.6 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2819,7 +6630,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=B 2=E 3=C"
-			(at 110.49 72.39 0)
+			(at 101.6 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2849,7 +6660,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized_Small")
-		(at 113.03 106.68 0)
+		(at 127 52.07 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2859,7 +6670,7 @@
 		(dnp no)
 		(uuid "f0852b17-155b-4f39-9275-91ccfdcf7919")
 		(property "Reference" "C1"
-			(at 106.426 106.426 0)
+			(at 120.396 51.816 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2870,7 +6681,7 @@
 			)
 		)
 		(property "Value" "10 µF"
-			(at 106.426 108.966 0)
+			(at 120.396 54.356 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2881,7 +6692,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 113.03 106.68 0)
+			(at 127 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2892,7 +6703,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 113.03 106.68 0)
+			(at 127 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2903,7 +6714,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
-			(at 113.03 106.68 0)
+			(at 127 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2930,7 +6741,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 99.06 72.39 270)
+		(at 93.98 46.99 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2941,7 +6752,7 @@
 		(fields_autoplaced yes)
 		(uuid "f3351525-ecff-4652-a99a-35ac2c6c8374")
 		(property "Reference" "R2"
-			(at 99.06 66.04 90)
+			(at 93.98 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2951,7 +6762,7 @@
 			)
 		)
 		(property "Value" "10R"
-			(at 99.06 68.58 90)
+			(at 93.98 43.18 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2961,7 +6772,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 99.06 70.612 90)
+			(at 93.98 45.212 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2972,7 +6783,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 99.06 72.39 0)
+			(at 93.98 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2983,7 +6794,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 99.06 72.39 0)
+			(at 93.98 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3003,6 +6814,108 @@
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
 					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N5400")
+		(at 86.36 100.33 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f6630f71-8e1f-4fcf-b5dc-5bfd7b35c1ff")
+		(property "Reference" "D8"
+			(at 84.328 96.774 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N5400"
+			(at 82.55 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-201AD_P15.24mm_Horizontal"
+			(at 81.915 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.vishay.com/docs/88516/1n5400.pdf"
+			(at 86.36 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "50V 3A General Purpose Rectifier Diode, DO-201AD"
+			(at 86.36 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 86.36 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 86.36 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "35230566-5310-4877-9b38-9394213b2b28")
+		)
+		(pin "2"
+			(uuid "b3403a5b-0d0e-4b35-ab0c-de0331c2beca")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "D8")
 					(unit 1)
 				)
 			)
