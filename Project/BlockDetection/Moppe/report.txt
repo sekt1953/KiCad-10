@@ -1,0 +1,40 @@
+Updated 1K8 from R3 to R4.
+Updated Conn_01x02_Pin from J4 to J6.
+Updated Conn_01x02_Pin from J5 to J7.
+Updated Conn_01x02_Pin from J6 to J8.
+Updated BC856 from Q1 to Q2.
+Updated BC856 or BC557 from Q2 to Q3.
+Updated BC856 or BC557 from Q3 to Q4.
+Updated BC856 or BC557 from Q4 to Q5.
+Updated 1K8 from R1 to R2.
+Updated 10R from R2 to R3.
+Updated Conn_01x02_Pin from J3 to J5.
+Updated 10R from R4 to R5.
+Updated 1K8 from R5 to R6.
+Updated 10R from R6 to R7.
+Updated 1K8 from R7 to R8.
+Updated 10R from R8 to R9.
+Updated PC847 (unit A) from U5A to U2A.
+Updated PC847 (unit B) from U5B to U2B.
+Updated PC847 (unit C) from U5C to U2C.
+Updated PC847 (unit D) from U5D to U2D.
+Updated IR26-21C_L110_TR8 from D9 to D8.
+Updated 10 µF from C2 to C3.
+Updated 10 µF from C3 to C4.
+Updated 10 µF from C4 to C5.
+Updated IR26-21C_L110_TR8 from D3 to D2.
+Updated S5AC from D1 to D3.
+Updated 1N5400 from D2 to D4.
+Updated IR26-21C_L110_TR8 from D6 to D5.
+Updated 1N5400 or S5AC from D4 to D6.
+Updated 1N5400 from D5 to D7.
+Updated 10 µF from C1 to C2.
+Updated 1N5400 or S5AC from D7 to D9.
+Updated 1N5400 from D8 to D10.
+Updated IR26-21C_L110_TR8 from D12 to D11.
+Updated 1N5400 or S5AC from D10 to D12.
+Updated 1N5400 from D11 to D13.
+Updated Conn_01x02_Pin from J1 to J2.
+Updated Amphenol RJHSE5380 from J7 to J3.
+Updated Conn_01x02_Pin from J2 to J4.
+Annotation complete.
