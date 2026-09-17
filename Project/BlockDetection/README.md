@@ -30,7 +30,7 @@
     - delayed_off: 1/4 bølgelængde af DCC
 ```
 
-og 
+og for spor frit:
 
 ```yaml
   filters:
@@ -38,3 +38,10 @@ og
 ```
 
 Se mere her [AI-Help_Input_min_Time.md](./AI-Help_Input_min_Time.md)
+
+## KiCad files
+
+* Project files:
+  * [Moppe.kicad_pro](./Moppe/Moppe.kicad_pro)
+* Schematic files:
+  * [Moppe.kicad_sch](./Moppe/Moppe.kicad_sch)
