@@ -11,6 +11,7 @@
 
 * [moppe.dk/besat.html](https://moppe.dk/besat.html) her et forslag til sporbesat telbage melding, jeg har brugt det som inspiration og her er min version:
 * ![Moppe.svg](./Moppe/Images/Skærmbillede%20fra%202026-09-17%2009-59-23.png)
+* For a ting skal virke best muligt, er det en god ide at placerer dette modul tæt på sporisulstionen som muligt, og så forbinde kabel mellem U1 udgange til MCUen input.
 * Lidt om diagrammet
   * D1 & D2 skal begrænse spændingen over Basis Emiter på Q1
     * Dioderne skal kunne børe en kortslutnings strøm, når der kommer kortslutning på skinderne, her 5A.
