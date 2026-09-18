@@ -33,7 +33,7 @@ I can provide a code example to get your setup running.
 
 * Add the OneWire library to your project configuration file:
 
-```code
+```c++
 ini
 [env:esp32dev]
 platform = espressif32
@@ -50,7 +50,7 @@ Vær forsigtig med at bruge denne kode.
 
 * This code discovers the DS2408 on the bus, configures all 8 channels as outputs, and toggles them in a simple pattern.
 
-```code
+```c++
 cpp
 
 #include <Arduino.h>
