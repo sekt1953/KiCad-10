@@ -2738,12 +2738,6 @@
 		(uuid "491c73e8-b82d-49c1-9ff5-7e48e6d6f5da")
 	)
 	(junction
-		(at 68.58 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4c509428-709a-44d7-a879-e802d0922fbd")
-	)
-	(junction
 		(at 127 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2930,6 +2924,12 @@
 		(uuid "ebf8762a-9712-4ee8-ba44-ffa0cebf675c")
 	)
 	(junction
+		(at 68.58 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ec65ac50-daba-4872-96cb-11a5fc51bd7f")
+	)
+	(junction
 		(at 127 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2976,16 +2976,6 @@
 			(type default)
 		)
 		(uuid "03376064-9a66-4a59-8594-e41e6043bb8d")
-	)
-	(wire
-		(pts
-			(xy 81.28 185.42) (xy 68.58 185.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "05658824-3377-4dfb-8c70-4fcbe9ca0af5")
 	)
 	(wire
 		(pts
@@ -3699,6 +3689,16 @@
 	)
 	(wire
 		(pts
+			(xy 68.58 187.96) (xy 68.58 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84d4dd40-816f-4e89-9dbb-44363e5e4206")
+	)
+	(wire
+		(pts
 			(xy 59.69 43.18) (xy 64.77 43.18)
 		)
 		(stroke
@@ -3706,6 +3706,16 @@
 			(type default)
 		)
 		(uuid "87575610-3592-4c55-b72b-ce8d0925ec2e")
+	)
+	(wire
+		(pts
+			(xy 55.88 187.96) (xy 68.58 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a296e24-43a6-41f8-949f-dd6c1b94b30b")
 	)
 	(wire
 		(pts
@@ -3806,6 +3816,16 @@
 			(type default)
 		)
 		(uuid "9957533b-3661-44a4-b19a-9a11840c12f7")
+	)
+	(wire
+		(pts
+			(xy 55.88 185.42) (xy 81.28 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c1388ea-953c-4567-8814-f3390531bfcb")
 	)
 	(wire
 		(pts
@@ -4387,16 +4407,6 @@
 		)
 		(uuid "ff2624e7-a20d-40bc-b2ea-89e0c59229d4")
 	)
-	(wire
-		(pts
-			(xy 68.58 185.42) (xy 68.58 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ff35f9bf-ae8d-4a4c-ae83-53a62b2098bc")
-	)
 	(label "DCC Out Gnd"
 		(at 53.34 46.99 180)
 		(effects
@@ -4416,6 +4426,16 @@
 			(justify right bottom)
 		)
 		(uuid "3b45c349-5cb2-4cfb-b57d-64a7062d336a")
+	)
+	(label "DCC Track_4 Power"
+		(at 49.53 186.69 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3fe741c4-1cc7-4367-8ef4-3efea432f7cf")
 	)
 	(label "DCC Track_1 Gnd"
 		(at 53.34 80.01 180)
@@ -4467,6 +4487,16 @@
 		)
 		(uuid "768eca9b-ff7c-4251-8e31-b4de6bcb01f5")
 	)
+	(label "DCC Track_4 Gnd"
+		(at 49.53 189.23 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "949d981c-db56-403c-bcd7-8d783675fe33")
+	)
 	(label "DCC Track_0 Power"
 		(at 53.34 55.88 180)
 		(effects
@@ -4516,6 +4546,89 @@
 			(justify right bottom)
 		)
 		(uuid "f6df2fb0-37ce-476b-9853-d30990060eb7")
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 50.8 187.96 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0300d39a-42ce-447f-9d59-ff86ae6fe8f9")
+		(property "Reference" "J8"
+			(at 52.324 182.88 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 49.276 180.594 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical"
+			(at 50.8 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 50.8 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 50.8 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "35a3c730-1411-463b-820e-ca6c86645d5b")
+		)
+		(pin "2"
+			(uuid "7ecc13ae-47e4-45dd-be15-0f34d4975e8c")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "J8")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Isolator:PC847")
