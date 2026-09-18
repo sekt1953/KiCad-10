@@ -35,6 +35,7 @@ I can provide a code example to get your setup running.
 
 ```c++
 ini
+
 [env:esp32dev]
 platform = espressif32
 board = esp32dev
