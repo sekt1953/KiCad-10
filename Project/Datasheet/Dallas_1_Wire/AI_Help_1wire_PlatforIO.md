@@ -17,16 +17,12 @@
 2. Initialize the OneWire instance on your chosen GPIO pin.
 3. Use a compatible DS2408 library to handle the specific 8-channel PIO (Programmable I/O) read and write commands.
 
-## If you'd like, let me know
+### If you'd like, let me know
 
 * Which development environment you are using (Arduino IDE, ESP-IDF, PlatformIO)
 * Whether you plan to use the pins as inputs or outputs
 
 I can provide a code example to get your setup running.
-
-AI-svar kan indeholde fejl. Få flere oplysninger
-
-Analog DevicesDS2408 Datasheet and Product Info - Analog DevicesOverview * Control Eight Independent I/O Port Pins from a Single Micro Port Pin. Eight Channels of Programmable I/O with Open-Drai...Arduino ForumDS2408 onewire plantage compilation - Arduino Forumi use a esp32 with ds2408? can you help me ? thanks #include #include DS2408 ds(34); Devices devices; void setup ...ScribdDS2408 GPIO Port Extender Example Code | PDF - ScribdThe code uses a OneWireHub to communicate with the DS2408 device over 1-wire. It can get and set the pin states and activity of ea...Vis alle
 
 ## I wil use PlatformIO, can you come with code
 
@@ -176,5 +172,3 @@ int readDS2408(byte *address) {
   * Writing a 1 to a channel makes the pin High-Impedance / Floating (OFF).
   * To light up an LED or trigger an external device, connect your load between VCC and the DS2408 pin, rather than from the pin to GND.
 * Would you like me to adapt this code to handle inputs (like reading buttons) or show you how to toggle individual channels without affecting the others?
-
-* AI-svar kan indeholde fejl. Få flere oplysninger
