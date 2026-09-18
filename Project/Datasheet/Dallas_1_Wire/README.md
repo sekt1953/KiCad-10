@@ -9,7 +9,6 @@
 
 * [1-Wire](https://www.home-assistant.io/integrations/onewire/)
 
-
 ## Component
 
 * [DS2408, 1-Wire 8-Channel Addressable Switch](./ds2408.pdf)
