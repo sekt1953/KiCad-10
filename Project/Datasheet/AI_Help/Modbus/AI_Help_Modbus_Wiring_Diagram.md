@@ -1,4 +1,4 @@
-# AI Help Modbus
+# AI Help Modbus Wiring Diagram
 
 ## ESPHome how to connect rs485 modbus
 

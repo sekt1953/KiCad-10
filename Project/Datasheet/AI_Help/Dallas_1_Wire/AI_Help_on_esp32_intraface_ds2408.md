@@ -1,4 +1,4 @@
-# AI Help on esp32 intaface ds2408
+# AI Help on esp32 intraface ds2408
 
 ## esp32 and ds2408
 

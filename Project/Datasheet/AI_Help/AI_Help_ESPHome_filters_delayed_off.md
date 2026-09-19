@@ -1,4 +1,4 @@
-# AI Help ESPHome     filters: - delayed_off
+# AI Help ESPHome filters: - delayed_off
 
 ## ESPHome Dokumentation
 
