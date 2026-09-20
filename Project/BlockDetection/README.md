@@ -46,3 +46,40 @@ Se mere her [AI-Help_Input_min_Time.md](./AI-Help_Input_min_Time.md)
   * [Moppe.kicad_pro](./Moppe/Moppe.kicad_pro)
 * Schematic files:
   * [Moppe.kicad_sch](./Moppe/Moppe.kicad_sch)
+
+## Modbus med RJ45 Cat5e Kabel
+
+### 1. The Two Main Pinout Standards
+
+* Because RS-485 is a differential signal, **the A (+) and B (-) signals must always be on the exact same twisted pair** to ensure proper noise cancellation.
+
+#### **Standard A: The Modbus Organization Standard (TIA-856)**
+
+* This is the official recommended standard by the Modbus Organization for serial Modbus over an RJ45 connector.
+
+|RJ45 Pin|T568B Wire Color|RS-485 Function|Notes|
+|:---:|:---|:---|:---|
+|Pin 4|🔵 Blue|D1 / B / +|Non-inverting data signal (Twisted Pair 1)|
+|Pin 5|🔵⚪ Blue/White|D0 / A / -|Inverting data signal (Twisted Pair 1)|
+|Pin 8|🟤 Brown|Common / GND|Reference ground line (Crucial for isolation)|
+
+#### Standard B: Alternative Industrial Pinout (e.g., Delta VFDs / Security Systems)
+
+* Many automated hardware manufacturers swap the pairs to utilize the outermost positions or alternate twisted pairs.
+
+RJ45 PinT568B Wire ColorRS-485 FunctionNotes
+
+|RJ45 Pin|T568B Wire Color|RS-485 Function|Notes|
+|:---:|:---|:---|:---|
+|Pin 1|🟠⚪ Orange/White|D1 / B / +|Non-inverting data signal (Twisted Pair 2)|
+|Pin 2|🟠 Orange|D0 / A / -|Inverting data signal (Twisted Pair 2)|
+|Pin 7|🟤⚪ Brown/White|Common / GND|Reference ground line
+
+![connector.png](./Moppe/Images/rj45-pass-through-connector.png)
+
+## 2. Critical Wiring Rules
+
+* **Never Plug RS-485 into an Ethernet Port:** While the connector is physically identical, injecting RS-485 voltages (up to 12V) into a standard 2.5V network switch or computer NIC will instantly burn out the magnetic transformers.
+* **Always Connect the Ground (GND):** A common misconception is that RS-485 only requires two wires. Without a common ground reference between transceivers, standard-mode voltage spikes can cause data corruption or blow out communication chips.
+* **Daisy-Chaining:** Standard Ethernet splitters cannot be used to break out the signal because they create "stubs" (T-junctions) that reflect signals. You must use a true daisy-chain block where the bus enters the adapter and immediately continues out to the next node
+* **Termination:** Just like standard terminal-block RS-485, if your RJ45 cable run is long or operating at high speeds (above 9600 baud), you must bridge a 120-ohm resistor across the data pair (Pins 4 and 5, or 1 and 2) at the final physical device on the line.
