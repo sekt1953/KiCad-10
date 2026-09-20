@@ -49,6 +49,13 @@ Se mere her [AI-Help_Input_min_Time.md](./AI-Help_Input_min_Time.md)
 
 ## Modbus med RJ45 Cat5e Kabel
 
+* Kilde:
+  * [How can the RJ-45 connections on RS-232 and RS-485 SeaI/O data acquisition devices be used?](https://www.sealevel.com/how-can-the-rj-45-connections-on-rs-232-and-rs-485-seai-o-data-acquisition-devices-be-used)
+* Samtale i AI-tilstand: rs485 via rj45 connector
+  * Using an RJ45 connector for RS-485 serial communication is an incredibly common industry practice used by manufacturers like Schneider Electric, Delta, and Cisco. It allows installers to leverage cheap, abundant, and pre-twisted Cat5e or Cat6 cabling rather than specialized serial wire.
+  * However, there is no single universal standard pinout for RS-485 over RJ45. If you do not follow the specific pinout of your equipment's manufacturer, you risk damaging connected components.
+  * Below is a breakdown of the two most common pinout standards, critical wiring requirements, and hardware implementations.
+
 ### 1. The Two Main Pinout Standards
 
 * Because RS-485 is a differential signal, **the A (+) and B (-) signals must always be on the exact same twisted pair** to ensure proper noise cancellation.
@@ -59,8 +66,8 @@ Se mere her [AI-Help_Input_min_Time.md](./AI-Help_Input_min_Time.md)
 
 |RJ45 Pin|T568B Wire Color|RS-485 Function|Notes|
 |:---:|:---|:---|:---|
-|Pin 4|🔵 Blue|D1 / B / +|Non-inverting data signal (Twisted Pair 1)|
-|Pin 5|🔵⚪ Blue/White|D0 / A / -|Inverting data signal (Twisted Pair 1)|
+|Pin 4|🔵 Blue|D1 / A / +|Non-inverting data signal (Twisted Pair 1)|
+|Pin 5|🔵⚪ Blue/White|D0 / B / -|Inverting data signal (Twisted Pair 1)|
 |Pin 8|🟤 Brown|Common / GND|Reference ground line (Crucial for isolation)|
 
 #### Standard B: Alternative Industrial Pinout (e.g., Delta VFDs / Security Systems)
@@ -71,8 +78,8 @@ RJ45 PinT568B Wire ColorRS-485 FunctionNotes
 
 |RJ45 Pin|T568B Wire Color|RS-485 Function|Notes|
 |:---:|:---|:---|:---|
-|Pin 1|🟠⚪ Orange/White|D1 / B / +|Non-inverting data signal (Twisted Pair 2)|
-|Pin 2|🟠 Orange|D0 / A / -|Inverting data signal (Twisted Pair 2)|
+|Pin 1|🟠⚪ Orange/White|D1 / A / +|Non-inverting data signal (Twisted Pair 2)|
+|Pin 2|🟠 Orange|D0 / B / -|Inverting data signal (Twisted Pair 2)|
 |Pin 7|🟤⚪ Brown/White|Common / GND|Reference ground line
 
 ![connector.png](./Moppe/Images/rj45-pass-through-connector.png)
