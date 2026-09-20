@@ -10,7 +10,7 @@
 ## SporBesat a la´ Moppe
 
 * [moppe.dk/besat.html](https://moppe.dk/besat.html) her et forslag til sporbesat tilbage melding, jeg har brugt det som inspiration og her er min version:
-* ![Moppe.svg](./Moppe/Images/Moppe2.svg)
+* ![Moppe.svg](./Moppe/Images/Moppe.svg)
 * For a ting skal virke best muligt, er det en god ide at placerer dette modul tæt på sporisulstionen som muligt, og så forbinde kabel mellem U1 udgange til MCUen input.
 * Lidt om diagrammet
   * D1 & D2 skal begrænse spændingen over Basis Emiter på Q1
