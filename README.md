@@ -6,6 +6,11 @@
   * [Getting Started In KiCad 10.0](https://docs.kicad.org/10.0/en/getting_started_in_kicad/getting_started_in_kicad.html)
   * [Documentation](https://docs.kicad.org/)
   * [Learning Resources](https://www.kicad.org/help/learning-resources/)
+* [DIY Hideout](https://www.youtube.com/@diyhideout)
+  * [KiCad for Beginners Playlist](https://www.youtube.com/playlist?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R)
+    * [How to Create Custom KiCad Symbol and Footprints](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R)
+    * [How to Panelize PCB boards in KiCad 9.0 using Mouse Bite](https://youtu.be/JM_CctmHOnU?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R)
+    * [How to panelize PCB board using V cuts in KiCad 9](https://youtu.be/ph2jV5HMxfQ?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R)
 * [EmbeddedU](https://www.youtube.com/@EmbeddedU)
   * [Kicad 10 Made Simple From Zero Experience To A Real PCB](https://www.youtube.com/watch?v=g3vxpdG1chs) Time: 2:10:08
     * in this video, you will learn:
