@@ -47,6 +47,44 @@ Se mere her [AI-Help_Input_min_Time.md](./AI-Help_Input_min_Time.md)
 * Schematic files:
   * [Moppe.kicad_sch](./Moppe/Moppe.kicad_sch)
 
+## Programming MCU i kredssløb
+
+* If you share the same TX and RX pins for programming the ESP32-C3 and communicating with the MAX3485, they will interfere with each other.
+* When you try to upload code, the MAX3485 will fight for control of the RX/TX lines, causing the programming to fail.
+* To fix this, you have two choices:
+
+### Solution 1: Use Series Resistors (Isolation Buffer)
+
+* If you absolutely must use the exact same pins, you can add two 1kΩ resistors to give your programmer priority.
+  * ESP32 TX (GPIO 21) → 1kΩ Resistor → MAX3485 DI
+  * ESP32 RX (GPIO 20) → 1kΩ Resistor → MAX3485 RO
+  * Your USB-to-UART Programmer connects directly to the ESP32 TX and RX pins (bypassing the resistors).
+* How it works: The 1kΩ resistors limit the current from the MAX3485. When your USB programmer is plugged in, it easily overrides the MAX3485 signals, allowing you to flash code without unplugging anything.
+
+### Solution 2: Move the MAX3485 to different pins (Recommended)
+
+* The ESP32-C3 allows you to assign UART functions to almost any available GPIO pins in your code. The easiest solution is to leave the hardware programming pins alone and use different pins for the MAX3485.
+  1. Keep your USB programmer dedicated to GPIO 20 (RX) and GPIO 21 (TX).
+  2. Connect the MAX3485 to any other free GPIOs (for example, GPIO 4 for RX and GPIO 5 for TX).
+  3.In your Arduino code, initialize a hardware serial instance on those pins like this:
+
+```cpp
+
+cpp
+
+// Define your custom pins for MAX3485
+#define RX_PIN 4
+#define TX_PIN 5
+
+void setup() {
+  // Serial is for USB programming/debugging
+  Serial.begin(115200); 
+  
+  // Serial1 is dedicated to your MAX3485
+  Serial1.begin(9600, SERIAL_8N1, RX_PIN, TX_PIN); 
+}
+```
+
 ## Modbus med RJ45 Cat5e Kabel
 
 * Kilde:
