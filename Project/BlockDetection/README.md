@@ -30,9 +30,10 @@ der af ovenstående diagram fra [moppe.dk/besat.html](https://moppe.dk/besat.htm
   skal have forsinkelse for sporbesat på 50ms,  
   og en forsinkelse for sporfrit på 3sec.
   * Dette opnås med :
-  * YAML
 
 ```yaml
+YAML
+
   filters:
     - delayed_off: 50ms
 ```
