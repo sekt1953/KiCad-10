@@ -41,6 +41,8 @@ YAML
 og for spor frit:
 
 ```yaml
+YAML
+
   filters:
     - delayed_on: 3sec
 ```
