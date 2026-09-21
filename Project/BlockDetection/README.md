@@ -9,7 +9,14 @@
 
 ## SporBesat a la´ Moppe
 
-* [moppe.dk/besat.html](https://moppe.dk/besat.html) her et forslag til sporbesat tilbage melding, jeg har brugt det som inspiration og her er min version:
+![](./Moppe/Images/Skærmbillede%20fra%202026-09-21%2023-03-31.png)
+
+* jeg blev inspireret til at lave en besat med
+der af ovenstående diagram fra [moppe.dk/besat.html](https://moppe.dk/besat.html)
+* herunder er min version:
+
+## Sporbesat a la' SEKT
+
 * ![Moppe.svg](./Moppe/Images/Moppe.svg)
 * For a ting skal virke best muligt, er det en god ide at placerer dette modul tæt på sporisulstionen som muligt, og så forbinde kabel mellem U1 udgange til MCUen input.
 * Lidt om diagrammet
