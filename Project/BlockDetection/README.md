@@ -22,7 +22,7 @@ der af ovenstående diagram fra [moppe.dk/besat.html](https://moppe.dk/besat.htm
   * D1 & D2 skal begrænse spændingen over Basis Emiter på Q1
     * Dioderne skal kunne børe en kortslutnings strøm, når der kommer kortslutning på skinderne, her 5A.
   * R2 på 10R skal begrænse strømen i Q1's Basis til under 5mA
-  * U1 ved at bruge en Optokobler her, opnår vi adskillese mellem DCCs 12VAC og MCUs 3,3VDC.
+  * U1 ved at bruge en Optokobler her, opnår vi adskillese mellem DCCs 19VAC og MCUs 3,3VDC.
     * U1's Collector forbindes til indgang på MCU eller MCU Interface
     * U1's Emiter forbindes til MCU GND
 * MCU's Binary Sensor:
