@@ -11,6 +11,9 @@
     * [How to Create Custom KiCad Symbol and Footprints](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R)
     * [How to Panelize PCB boards in KiCad 9.0 using Mouse Bite](https://youtu.be/JM_CctmHOnU?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R)
     * [How to panelize PCB board using V cuts in KiCad 9](https://youtu.be/ph2jV5HMxfQ?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R)
+    * [How to create various shape PCB boards in KiCad 9](https://youtu.be/f_qYrs3OZBM)
+  * [How to Reuse Circuits as Design Blocks in KiCad for Time-Saving Workflow](https://youtu.be/tEj-HklouXU)
+  * [Step-by-Step ERC & DRC Checks in KiCad 9.0 | Complete Beginner’s Walkthrough](https://youtu.be/OZhVRyuPJuA)
 * [EmbeddedU](https://www.youtube.com/@EmbeddedU)
   * [Kicad 10 Made Simple From Zero Experience To A Real PCB](https://www.youtube.com/watch?v=g3vxpdG1chs) Time: 2:10:08
     * in this video, you will learn:
