@@ -7,6 +7,7 @@
 	(title_block
 		(title "Sporbesat detector med Modbus")
 		(date "2026-09-20 20:22")
+		(rev "20260921-1")
 		(company "Svenn-Erik K. Thomsen")
 	)
 	(lib_symbols
@@ -921,6 +922,142 @@
 				(pin passive line
 					(at 0 0 90)
 					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Connector:TestPoint_Probe"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.762)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "TP"
+				(at 1.651 5.842 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint_Probe"
+				(at 1.651 4.064 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "test point (alternative probe-style design)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "TestPoint_Probe_0_1"
+				(polyline
+					(pts
+						(xy 1.27 0.762) (xy 0 0) (xy 0.762 1.27) (xy 1.27 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.397 0.635) (xy 0.635 1.397) (xy 2.413 3.175) (xy 3.175 2.413) (xy 1.397 0.635)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "TestPoint_Probe_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 0)
 					(name "1"
 						(effects
 							(font
@@ -5374,7 +5511,7 @@
 		(uuid "af886b82-bf49-4143-bf14-7826f45928da")
 	)
 	(junction
-		(at 262.89 58.42)
+		(at 260.35 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "01697feb-3759-421a-b312-93840c9c674e")
@@ -5396,6 +5533,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0cb02680-6483-43e9-bba9-ef93c7ddc38e")
+	)
+	(junction
+		(at 162.56 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "101f13a8-f52b-486f-abc3-218cac512082")
 	)
 	(junction
 		(at 146.05 64.77)
@@ -5572,7 +5715,7 @@
 		(uuid "727b7568-fc0b-43b1-9421-e13dd4d8efa4")
 	)
 	(junction
-		(at 262.89 62.23)
+		(at 260.35 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "744e2b35-5613-48ea-8b5b-9fcfce03dfec")
@@ -6237,6 +6380,16 @@
 	)
 	(wire
 		(pts
+			(xy 233.68 34.29) (xy 233.68 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ec3b603-0be8-4150-9920-9d02f842e52d")
+	)
+	(wire
+		(pts
 			(xy 260.35 128.27) (xy 262.89 128.27)
 		)
 		(stroke
@@ -6417,7 +6570,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 99.06) (xy 198.12 91.44)
+			(xy 198.12 101.6) (xy 198.12 91.44)
 		)
 		(stroke
 			(width 0)
@@ -6507,7 +6660,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 99.06) (xy 198.12 99.06)
+			(xy 198.12 101.6) (xy 203.2 101.6)
 		)
 		(stroke
 			(width 0)
@@ -6637,16 +6790,6 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 116.84) (xy 162.56 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "48f607cb-d6e3-4c09-9514-898847dc66d7")
-	)
-	(wire
-		(pts
 			(xy 269.24 21.59) (xy 269.24 25.4)
 		)
 		(stroke
@@ -6754,6 +6897,16 @@
 			(type default)
 		)
 		(uuid "52fe1ce1-ac77-4cfa-939e-09f0a441e76b")
+	)
+	(wire
+		(pts
+			(xy 260.35 62.23) (xy 262.89 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "543a4746-b24d-4aa0-ad38-14c6b8bcb067")
 	)
 	(wire
 		(pts
@@ -7327,17 +7480,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 55.88) (xy 262.89 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "901a9dc4-7a43-4486-bfe0-d990a2b53196")
-	)
-	(wire
-		(pts
-			(xy 257.81 53.34) (xy 257.81 58.42)
+			(xy 260.35 55.88) (xy 260.35 62.23)
 		)
 		(stroke
 			(width 0)
@@ -7637,6 +7780,16 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 24.13) (xy 242.57 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aaa45dff-1d55-43d5-963a-494ace2b9ba2")
+	)
+	(wire
+		(pts
 			(xy 125.73 106.68) (xy 125.73 111.76)
 		)
 		(stroke
@@ -7877,6 +8030,16 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 116.84) (xy 162.56 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c617c2bf-2a52-4a24-89ef-d460cace032a")
+	)
+	(wire
+		(pts
 			(xy 53.34 22.86) (xy 59.69 22.86)
 		)
 		(stroke
@@ -8067,6 +8230,16 @@
 	)
 	(wire
 		(pts
+			(xy 162.56 80.01) (xy 162.56 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da5fc457-1a5e-4da8-8000-e9b69c957b24")
+	)
+	(wire
+		(pts
 			(xy 73.66 34.29) (xy 78.74 34.29)
 		)
 		(stroke
@@ -8077,7 +8250,7 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 58.42) (xy 262.89 58.42)
+			(xy 260.35 58.42) (xy 269.24 58.42)
 		)
 		(stroke
 			(width 0)
@@ -8104,16 +8277,6 @@
 			(type default)
 		)
 		(uuid "dc97cd5e-5795-4380-9e23-c133d1158d20")
-	)
-	(wire
-		(pts
-			(xy 262.89 58.42) (xy 262.89 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd0b41d5-44fa-4f4d-9148-9c49ff38b3dc")
 	)
 	(wire
 		(pts
@@ -8477,16 +8640,6 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 62.23) (xy 262.89 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fc8c2b8c-0d46-40e7-b427-2b12c56fc0c0")
-	)
-	(wire
-		(pts
 			(xy 63.5 106.68) (xy 63.5 82.55)
 		)
 		(stroke
@@ -8494,6 +8647,16 @@
 			(type default)
 		)
 		(uuid "fdeaac77-d4e9-42ee-8869-41b6f417e5ce")
+	)
+	(wire
+		(pts
+			(xy 201.93 96.52) (xy 203.2 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff0d69a2-5c1d-4fc6-a76c-9de1b73c7bd8")
 	)
 	(image
 		(at 216.0913 138.6474)
@@ -16427,7 +16590,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01033b38-9071-4015-bc6f-a210d336fe07")
-		(property "Reference" "U2"
+		(property "Reference" "U1"
 			(at 119.38 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16504,7 +16667,7 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "U2")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -16522,7 +16685,7 @@
 		(dnp no)
 		(uuid "03ffec8a-bed4-42d3-984b-7edc3ddd6ab0")
 		(property "Reference" "JP1"
-			(at 234.696 77.47 90)
+			(at 237.236 75.692 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16603,7 +16766,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "048e9edf-e9d5-4f6f-9906-e2ecbc41a5c4")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 133.35 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16710,7 +16873,7 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "U1")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -17018,7 +17181,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f792241-e37d-4390-a72d-187a0df27d22")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR010"
 			(at 240.03 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -17078,7 +17241,7 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "#PWR09")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -17174,7 +17337,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11d2d8be-133e-4e3e-9e8a-fd9a41fd97e5")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR012"
 			(at 255.27 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -17234,7 +17397,7 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "#PWR011")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -17251,7 +17414,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "124d8958-f68f-4ff1-9a56-5d9fded5487b")
-		(property "Reference" "R10"
+		(property "Reference" "R11"
 			(at 198.12 60.198 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17316,7 +17479,7 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "R10")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -17324,7 +17487,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 257.81 53.34 0)
+		(at 260.35 55.88 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17335,7 +17498,7 @@
 		(fields_autoplaced yes)
 		(uuid "13ed1014-d1da-4aaa-a394-eed228f2d57a")
 		(property "Reference" "#FLG03"
-			(at 257.81 51.435 0)
+			(at 260.35 53.975 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17346,7 +17509,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 257.81 48.26 0)
+			(at 260.35 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17356,7 +17519,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 257.81 53.34 0)
+			(at 260.35 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17367,7 +17530,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 257.81 53.34 0)
+			(at 260.35 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17378,7 +17541,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 257.81 53.34 0)
+			(at 260.35 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17493,7 +17656,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16cac6f0-452d-4e65-9539-39971e44b65e")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR013"
 			(at 257.81 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -17553,7 +17716,7 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "#PWR012")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -17650,8 +17813,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1af4aca1-afa6-4c5b-8380-12f745ff453d")
-		(property "Reference" "R15"
-			(at 234.188 85.852 0)
+		(property "Reference" "R18"
+			(at 240.03 89.408 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17662,7 +17825,7 @@
 			)
 		)
 		(property "Value" "4K7"
-			(at 234.188 88.392 0)
+			(at 237.617 89.027 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17714,7 +17877,7 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "R15")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -17985,6 +18148,163 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDD")
+		(at 233.68 35.56 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "240a4cbe-83e6-44d1-826e-6cfba8f98038")
+		(property "Reference" "#PWR08"
+			(at 233.68 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDD"
+			(at 233.68 39.37 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 233.68 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 233.68 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDD\" , digital ground"
+			(at 233.68 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "160fc641-e5d0-4678-ab5a-3b24e62a1574")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint_Alt")
+		(at 233.68 34.29 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "29498e67-aafe-4b5d-acce-6c59e8f89707")
+		(property "Reference" "TP13"
+			(at 231.648 28.956 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint_Alt"
+			(at 236.22 32.2579 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 238.76 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 238.76 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point (alternative shape)"
+			(at 233.68 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3678f384-0cf0-4f97-ab20-300866b2c818")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "TP13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint_Alt")
 		(at 146.05 86.36 0)
 		(unit 1)
@@ -18154,7 +18474,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39f5c30a-9f9f-4174-a2ba-cd85bb4efbd0")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 133.35 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18261,7 +18581,7 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "U1")
+					(reference "U2")
 					(unit 3)
 				)
 			)
@@ -18341,6 +18661,84 @@
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
 					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint_Probe")
+		(at 203.2 101.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3d51b8cc-6ae7-4785-8fac-029e00445194")
+		(property "Reference" "TP12"
+			(at 207.01 98.7424 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Program Rx"
+			(at 207.01 100.838 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
+			(at 208.28 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.28 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point (alternative probe-style design)"
+			(at 203.2 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "735495b2-fb3a-4828-be33-1f5c6a883961")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "TP12")
 					(unit 1)
 				)
 			)
@@ -18440,7 +18838,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "425291c5-22fb-4f2d-8c76-17cae4cc4e69")
-		(property "Reference" "R17"
+		(property "Reference" "R12"
 			(at 198.12 85.598 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18504,7 +18902,7 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "R17")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -18771,8 +19169,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4508a075-90c5-4260-b97f-e41d33b988f7")
-		(property "Reference" "R16"
-			(at 172.847 81.153 90)
+		(property "Reference" "R10"
+			(at 171.958 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18783,7 +19181,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 172.847 78.613 90)
+			(at 171.958 81.534 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18835,7 +19233,7 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "R16")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -18852,7 +19250,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "45f812d8-8c7b-462b-a922-95ddf3c6bbf5")
-		(property "Reference" "R11"
+		(property "Reference" "R13"
 			(at 202.184 60.452 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18916,7 +19314,7 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "R11")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -18924,7 +19322,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint_Alt")
-		(at 158.75 116.84 90)
+		(at 242.57 24.13 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18932,9 +19330,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "495ab829-7bde-4976-bba9-a829f758aef3")
-		(property "Reference" "TP9"
-			(at 157.734 114.554 90)
+		(uuid "47de51f8-686f-408e-bff9-e42ef982d03c")
+		(property "Reference" "TP14"
+			(at 240.538 19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18945,7 +19343,7 @@
 			)
 		)
 		(property "Value" "TestPoint_Alt"
-			(at 156.7179 114.3 0)
+			(at 245.11 22.0979 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18957,7 +19355,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 158.75 111.76 0)
+			(at 247.65 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18968,7 +19366,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 111.76 0)
+			(at 247.65 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18979,7 +19377,7 @@
 			)
 		)
 		(property "Description" "test point (alternative shape)"
-			(at 158.75 116.84 0)
+			(at 242.57 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18990,12 +19388,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "ffeac98d-0e11-45d2-ac95-7890d36719a7")
+			(uuid "4714cf0f-e4cb-4d2d-962e-8d1d586501b7")
 		)
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "TP9")
+					(reference "TP14")
 					(unit 1)
 				)
 			)
@@ -19618,7 +20016,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68b60a61-8fb1-4804-9750-ccaa87d87cfd")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 133.35 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19725,7 +20123,7 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "U1")
+					(reference "U2")
 					(unit 2)
 				)
 			)
@@ -20006,86 +20404,6 @@
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
 					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint_Alt")
-		(at 201.93 96.52 270)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "7530043c-c85c-446c-b418-f9f066232790")
-		(property "Reference" "TP10"
-			(at 207.518 96.52 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint_Alt"
-			(at 203.9621 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 201.93 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 201.93 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point (alternative shape)"
-			(at 201.93 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5bc75c6d-646d-4cb6-9359-43995cdfe466")
-		)
-		(instances
-			(project "Moppe"
-				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "TP10")
 					(unit 1)
 				)
 			)
@@ -20711,7 +21029,7 @@
 		(dnp no)
 		(uuid "89915a03-39bd-4d2d-9516-e77992f85b8f")
 		(property "Reference" "C7"
-			(at 236.22 30.48 0)
+			(at 243.332 28.194 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20722,7 +21040,7 @@
 			)
 		)
 		(property "Value" "10µF"
-			(at 236.22 33.02 0)
+			(at 243.332 33.782 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20792,7 +21110,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a421d11-a002-44f9-a2c1-45acc1435d4c")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 133.35 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20899,7 +21217,7 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "U1")
+					(reference "U2")
 					(unit 4)
 				)
 			)
@@ -21183,7 +21501,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9440a319-27c1-41ee-8e7f-96dd0e7f7cfa")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR011"
 			(at 242.57 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -21243,7 +21561,7 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "#PWR010")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -21619,6 +21937,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint_Probe")
+		(at 156.21 116.84 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9a0f6b50-6737-4581-a22a-cf104aa44032")
+		(property "Reference" "TP9"
+			(at 152.4 113.9824 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Program"
+			(at 159.004 119.126 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 151.13 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.13 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point (alternative probe-style design)"
+			(at 156.21 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fa9f8134-44dc-4495-b859-fe225bdde189")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "TP9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 201.93 83.82 0)
 		(unit 1)
@@ -21629,7 +22026,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9ae8cd59-3aa8-47a6-9c88-6c31c5319651")
-		(property "Reference" "R18"
+		(property "Reference" "R14"
 			(at 201.93 85.598 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21693,7 +22090,7 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "R18")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -21957,8 +22354,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a51cf665-b1e4-48ac-9712-df75e2714406")
-		(property "Reference" "R14"
-			(at 232.918 69.596 0)
+		(property "Reference" "R17"
+			(at 240.03 73.152 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21969,7 +22366,7 @@
 			)
 		)
 		(property "Value" "120R"
-			(at 232.918 72.136 0)
+			(at 237.236 73.66 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22021,7 +22418,7 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "R14")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -22334,6 +22731,84 @@
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
 					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint_Probe")
+		(at 203.2 96.52 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a7d7d472-d87c-4112-8a76-f6e5fae96a4a")
+		(property "Reference" "TP11"
+			(at 207.01 93.6624 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Program Tx"
+			(at 207.01 95.758 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
+			(at 208.28 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.28 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point (alternative probe-style design)"
+			(at 203.2 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "33c7e3d6-a4e4-4c2a-90f5-c2879fc54067")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "TP11")
 					(unit 1)
 				)
 			)
@@ -23115,6 +23590,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint_Probe")
+		(at 162.56 80.01 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c7b0ae2a-1158-455f-ba0d-323e5e9fd30f")
+		(property "Reference" "TP10"
+			(at 166.37 77.1524 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Reset"
+			(at 166.37 79.248 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
+			(at 167.64 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point (alternative probe-style design)"
+			(at 162.56 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "76d3c42c-9bb4-4498-8644-587da1ffb66c")
+		)
+		(instances
+			(project "Moppe"
+				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
+					(reference "TP10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 233.68 22.86 0)
 		(unit 1)
@@ -23124,9 +23677,8 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ce9d4842-3707-41d9-8190-cdb268cc9d85")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR09"
 			(at 233.68 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -23138,7 +23690,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 233.68 17.78 0)
+			(at 233.426 19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23186,7 +23738,7 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "#PWR08")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -23548,7 +24100,7 @@
 	)
 	(symbol
 		(lib_id "power:+VDC")
-		(at 262.89 55.88 0)
+		(at 269.24 58.42 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23557,8 +24109,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d8c54a36-0d32-467d-8af1-36629348c7cf")
-		(property "Reference" "#PWR013"
-			(at 262.89 58.42 0)
+		(property "Reference" "#PWR016"
+			(at 266.7 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23569,7 +24121,7 @@
 			)
 		)
 		(property "Value" "+9-30 VDC"
-			(at 271.272 53.086 0)
+			(at 272.542 55.118 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23579,7 +24131,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SSOP-10-1EP_3.9x4.9mm_P1mm_EP2.1x3.3mm"
-			(at 262.89 55.88 0)
+			(at 269.24 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23590,7 +24142,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 262.89 55.88 0)
+			(at 269.24 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23601,7 +24153,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+VDC\""
-			(at 262.89 55.88 0)
+			(at 269.24 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23617,7 +24169,7 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "#PWR013")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -23695,86 +24247,6 @@
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
 					(reference "#PWR015")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint_Alt")
-		(at 201.93 99.06 270)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e15e446d-544f-47a7-8d0c-38d3900ee08b")
-		(property "Reference" "TP11"
-			(at 207.772 99.06 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint_Alt"
-			(at 203.9621 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 201.93 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 201.93 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point (alternative shape)"
-			(at 201.93 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8b21c593-c403-47cc-b413-329e5edf8a2c")
-		)
-		(instances
-			(project "Moppe"
-				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "TP11")
 					(unit 1)
 				)
 			)
@@ -24025,8 +24497,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "efb9b6e4-7c74-4135-9670-54460c0ed26c")
-		(property "Reference" "R13"
-			(at 233.426 57.15 0)
+		(property "Reference" "R16"
+			(at 240.03 60.198 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24037,7 +24509,7 @@
 			)
 		)
 		(property "Value" "4K7"
-			(at 233.426 59.69 0)
+			(at 237.49 59.944 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24089,7 +24561,7 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "R13")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -24369,7 +24841,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f919ab5e-447b-4687-a633-c39d1e06fd9f")
-		(property "Reference" "R12"
+		(property "Reference" "R15"
 			(at 205.74 60.452 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24434,7 +24906,7 @@
 		(instances
 			(project "Moppe"
 				(path "/df40a3ed-29e1-4fed-8bb8-557e0f8da153"
-					(reference "R12")
+					(reference "R15")
 					(unit 1)
 				)
 			)
