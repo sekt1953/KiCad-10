@@ -5,7 +5,7 @@
 * [AI Help ESPHome filters: - delayed_off](../Datasheet/AI_Help/AI_Help_ESPHome_filters_delayed_off.md)
   * [ESPHome Dokumentation](../Datasheet/AI_Help/AI_Help_ESPHome_filters_delayed_off.md#esphome-dokumentation)
   * [ESPHome how to set min time for input to be low before accepted](../Datasheet/AI_Help/AI_Help_ESPHome_filters_delayed_off.md#.md#esphome-how-to-set-min-time-for-input-to-be-low-before-accepted)
-  * [can delayed_off bee set in milisec](../Datasheet/AI_Help_ESPHome_filters_delayed_off.md#can-delayed_off-bee-set-in-milisec)
+  * [can delayed_off bee set in milisec](../Datasheet/AI_Help/AI_Help_ESPHome_filters_delayed_off.md#can-delayed_off-bee-set-in-milisec)
 
 ## SporBesat a la´ Moppe
 
