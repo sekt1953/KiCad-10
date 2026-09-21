@@ -4,8 +4,8 @@
 
 * [AI Help ESPHome filters: - delayed_off](./AI-Help_Input_min_Time.md)
   * [ESPHome Dokumentation](./AI-Help_Input_min_Time.md#esphome-dokumentation)
-  * [ESPHome how to set min time for input to be low before accepted](./AI-Help_Input_min_Time.md#esphome-how-to-set-min-time-for-input-to-be-low-before-accepted)
-  * [can delayed_off bee set in milisec](./AI-Help_Input_min_Time.md#can-delayed_off-bee-set-in-milisec)
+  * [ESPHome how to set min time for input to be low before accepted](../Datasheet/AI_Help/AI_Help_ESPHome_filters_delayed_off.md#.md#esphome-how-to-set-min-time-for-input-to-be-low-before-accepted)
+  * [can delayed_off bee set in milisec](../Datasheet/AI_Help_ESPHome_filters_delayed_off.md#can-delayed_off-bee-set-in-milisec)
 
 ## SporBesat a la´ Moppe
 
@@ -21,24 +21,24 @@
     * U1's Emiter forbindes til MCU GND
 * MCU's Binary Sensor:
   * For at undgå falske sporbesat & sporfrit meldinger,  
-  skal have forsinkelse for sporbesat på 1/4 bølgelængde af DCC,  
-  og en forsinkelse for sporfrit på 3 bølgelængder af DCC.
+  skal have forsinkelse for sporbesat på 50ms,  
+  og en forsinkelse for sporfrit på 3sec.
   * Dette opnås med :
   * YAML
 
 ```yaml
   filters:
-    - delayed_off: 1/4 bølgelængde af DCC
+    - delayed_off: 50ms
 ```
 
 og for spor frit:
 
 ```yaml
   filters:
-    - delayed_on: 3 bølgelængder af DCC
+    - delayed_on: 3sec
 ```
 
-Se mere her [AI-Help_Input_min_Time.md](./AI-Help_Input_min_Time.md)
+Se mere her [AI-Help_Input_min_Time.md](../Datasheet/AI_Help/AI_Help_ESPHome_filters_delayed_off.md)
 
 ## KiCad files
 

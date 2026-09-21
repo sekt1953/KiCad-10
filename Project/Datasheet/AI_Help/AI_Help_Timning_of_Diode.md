@@ -19,7 +19,6 @@ Her er en simpel trin-for-trin guide til beregningen:
 
 * Hvis vi bruger eksemplet ovenfor (20 mA LED og 2V tilladt spændingsfald):
 
-
 ### 3. Konverter til mikrofarad (µF)
 
 * 0,000002 F svarer til 2 µF.
