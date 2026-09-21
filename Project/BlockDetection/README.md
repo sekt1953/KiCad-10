@@ -9,7 +9,7 @@
 
 ## SporBesat a la´ Moppe
 
-![](./Moppe/Images/Skærmbillede%20fra%202026-09-21%2023-03-31.png)
+![2023-03-31.png](./Moppe/Images/Skærmbillede%20fra%202026-09-21%2023-03-31.png)
 
 * jeg blev inspireret til at lave en besat med
 der af ovenstående diagram fra [moppe.dk/besat.html](https://moppe.dk/besat.html)
