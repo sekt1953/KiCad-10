@@ -1,4 +1,4 @@
-# Sporbesat
+# Sporbesat med Modbus
 
 ## AI Help
 
