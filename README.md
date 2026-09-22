@@ -14,6 +14,10 @@
     * [How to create various shape PCB boards in KiCad 9](https://youtu.be/f_qYrs3OZBM)
   * [How to Reuse Circuits as Design Blocks in KiCad for Time-Saving Workflow](https://youtu.be/tEj-HklouXU)
   * [Step-by-Step ERC & DRC Checks in KiCad 9.0 | Complete Beginner’s Walkthrough](https://youtu.be/OZhVRyuPJuA)
+* [made by morten](https://www.youtube.com/@made.by.morten.laboratories)
+  * [Boost Your KiCad Skills: 10 Essential PCB Layout Design Tips](https://youtu.be/YDjp2NEFB2U)
+  * [Beginners guide to KiCad](https://youtu.be/lTD16PAXeAs)
+  * [How to design 90 ohm differential traces for USB signals in KiCad.](https://youtu.be/ABJs4LKFSbA)
 * [EmbeddedU](https://www.youtube.com/@EmbeddedU)
   * [Kicad 10 Made Simple From Zero Experience To A Real PCB](https://www.youtube.com/watch?v=g3vxpdG1chs) Time: 2:10:08
     * in this video, you will learn:
