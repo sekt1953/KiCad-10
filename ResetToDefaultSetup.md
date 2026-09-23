@@ -1,5 +1,7 @@
 # Reset to default Setup
 
+## To reset KiCad 10 to its default factory settings
+
 To reset KiCad 10 to its default factory settings, you must close the application and 
 clear its global configuration directory. KiCad automatically generates a fresh set of 
 default files the next time you open it.
@@ -24,7 +26,7 @@ default files the next time you open it.
   3. Restart KiCad
      * Open KiCad 10. A configuration setup prompt will appear. Choose the option to start with default settings rather than importing configuration data from an older version.
 
-Resetting Only the Libraries (Alternative)
+## Resetting Only the Libraries (Alternative)
 
 * If you only need to fix broken global symbol or footprint libraries without wiping your entire preferences profile, you can reset them directly within KiCad:
   1. Open KiCad and go to Preferences -> Manage Symbol Libraries (or Manage 
