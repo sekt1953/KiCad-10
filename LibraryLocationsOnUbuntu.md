@@ -22,9 +22,13 @@ Det ændrer dog ikke på, hvor du skal gemme dine egne ting. Du skal fortsat hol
 Opret dine egne biblioteker i en fast mappe, der ikke forsvinder:
 
 ```bash
-bash
-
 mkdir -p ~/Documents/KiCad/10.0/{symbols,footprints,3dmodels}
+```
+
+Sådan hos mig:
+
+```bash
+mkdir -p ~/GitHub/KiCad-10/Lib/{symbols,footprints,3dmodels}
 ```
 
 2. Tilføj dem globalt i KiCad:
