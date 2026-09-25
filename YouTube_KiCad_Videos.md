@@ -14,6 +14,7 @@
   * [Boost Your KiCad Skills: 10 Essential PCB Layout Design Tips](https://youtu.be/YDjp2NEFB2U)
   * [Beginners guide to KiCad](https://youtu.be/lTD16PAXeAs)
   * [How to design 90 ohm differential traces for USB signals in KiCad.](https://youtu.be/ABJs4LKFSbA)
+    * [Sierra Circuits - Impedance ](https://impedance.app.protoexpress.com/)
 * [EmbeddedU](https://www.youtube.com/@EmbeddedU)
   * [Kicad 10 Made Simple From Zero Experience To A Real PCB](https://www.youtube.com/watch?v=g3vxpdG1chs) Time: 2:10:08
     * in this video, you will learn:

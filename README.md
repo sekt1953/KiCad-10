@@ -19,6 +19,7 @@
   * [Reset to default Setup](./ResetToDefaultSetup.md#reset-to-default-setup)
   * [Resetting Only the Libraries (Alternative)](./ResetToDefaultSetup.md#resetting-only-the-libraries-alternative)
 * [Plugin](./Plugins.md)
+* [Library Locations On Ubuntu](./LibraryLocationsOnUbuntu.md)
 
 ## KiCad Libraries
 
