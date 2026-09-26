@@ -53,14 +53,14 @@
 
 ## KiCad & FreeCad
 
-* [mathcodeprint](https://www.youtube.com/@mathcodeprint)
-  * [FreeCAD Export to KiCAD](https://youtu.be/JjDKCBUYoPU)
-* [Oleksii Slabchenko](https://www.youtube.com/@Sl-Alex)
-  * [FreeCAD tutorial: creating 3D model for KiCAD](https://youtu.be/S63DLV5HOPA)
-* [Tech Dregs](https://www.youtube.com/@TechDregs)
-  * [KiCad 10 and FreeCAD 1.1 are substantial](https://youtu.be/RrsPh7PYMvw)
-* [Cliff Brake](https://www.youtube.com/@cliffbrake)
-  * [Quickly moving 3D model data from KiCad to FreeCAD](https://youtu.be/i7StDopw0kI)
+* A look at some of the new features in these open source design programs.
+  * [KiCad 10 and FreeCAD 1.1 are substantial](https://youtu.be/RrsPh7PYMvw "Tech Dregs")
+* FreeCAD Export to KiCAD
+  * [FreeCAD Export to KiCAD](https://youtu.be/JjDKCBUYoPU "mathcodeprint")
+  * [FreeCAD: creating 3D model for KiCAD](https://youtu.be/S63DLV5HOPA "Oleksii Slabchenko")
+  * [FreeCAD x KiCAD 02 - Electronic Components Drawing - IC TDA 7294](https://youtu.be/pS_AzmdfzpM "Catur Pebriandani")
+* 3D model data from KiCad to FreeCAD
+  * [Quickly moving 3D model data from KiCad to FreeCAD](https://youtu.be/i7StDopw0kI "Cliff Brake")
 * AI
   * [How to model a custom 3D part in FreeCAD](./HowToModelACustom3DpartInFreeCAD.md)
   * [Trying to design an enclosure for an existing board](./ToDesignAnEnclosureForAnExistingBoardUsingFreeCADandKiCad.md)
