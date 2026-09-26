@@ -18,6 +18,7 @@
     * [Sierra Circuits - Impedance ](https://impedance.app.protoexpress.com/)
 * [EmbeddedU](https://www.youtube.com/@EmbeddedU)
   * [Kicad 10 Made Simple From Zero Experience To A Real PCB](https://www.youtube.com/watch?v=g3vxpdG1chs) Time: 2:10:08
+    * [Section](./Section-Kicad%2010%20Made%20Simple%20.md)
     * in this video, you will learn:
       * ✅ [Installing KiCad 10](https://youtu.be/g3vxpdG1chs)
       * ✅ [Creating a new KiCad project](https://youtu.be/g3vxpdG1chs?t=225)
