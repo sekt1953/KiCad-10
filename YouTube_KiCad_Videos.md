@@ -5,6 +5,7 @@
 * [DIY Hideout](https://www.youtube.com/@diyhideout)
   * [KiCad for Beginners Playlist](https://www.youtube.com/playlist?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R)
     * [How to Create Custom KiCad Symbol and Footprints](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R)
+      * [Footprints](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R&t=219)
     * [How to Panelize PCB boards in KiCad 9.0 using Mouse Bite](https://youtu.be/JM_CctmHOnU?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R)
     * [How to panelize PCB board using V cuts in KiCad 9](https://youtu.be/ph2jV5HMxfQ?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R)
     * [How to create various shape PCB boards in KiCad 9](https://youtu.be/f_qYrs3OZBM)
@@ -54,6 +55,8 @@
 
 * [mathcodeprint](https://www.youtube.com/@mathcodeprint)
   * [FreeCAD Export to KiCAD](https://youtu.be/JjDKCBUYoPU)
+* [Oleksii Slabchenko](https://www.youtube.com/@Sl-Alex)
+  * [FreeCAD tutorial: creating 3D model for KiCAD](https://youtu.be/S63DLV5HOPA)
 * [Tech Dregs](https://www.youtube.com/@TechDregs)
   * [KiCad 10 and FreeCAD 1.1 are substantial](https://youtu.be/RrsPh7PYMvw)
 * [Cliff Brake](https://www.youtube.com/@cliffbrake)
