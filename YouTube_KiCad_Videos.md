@@ -19,6 +19,9 @@
   * [Beginners guide to KiCad](https://youtu.be/lTD16PAXeAs)
   * [How to design 90 ohm differential traces for USB signals in KiCad.](https://youtu.be/ABJs4LKFSbA)
     * [Sierra Circuits - Impedance ](https://impedance.app.protoexpress.com/)
+* [Petr Dvořák](https://www.youtube.com/@hwidvorakinfo)
+  * [KiCAD Differential Pairs From Basics to Mastery](https://youtu.be/M13QxtPVrXY?list=PLIAR2cGwAPCLUXmfASbTys--_YN5_oESm)
+  * [KiCAD Essentials](https://youtu.be/jo0KxctkOXI "Petr Dvořák")
 * [EmbeddedU](https://www.youtube.com/@EmbeddedU)
   * [Kicad 10 Made Simple From Zero Experience To A Real PCB](https://www.youtube.com/watch?v=g3vxpdG1chs) Time: 2:10:08
     * [Link to Section](./Section-Kicad%2010%20Made%20Simple%20.md)
