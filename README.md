@@ -10,6 +10,11 @@
 ## YouTube Videos
 
 * [KiCad General](./YouTube_KiCad_Videos.md#kicad-general)
+  * [How to Create Custom KiCad Symbol and Footprints](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R)
+    * [Symbols](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R&t=8)
+    * [Footprints](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R&t=219)
+    * [Linking Symbol with Footprint](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R&t=411)
+    * [Preview Symbol & Footprint](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R&t=438)
 * [KiCad & FreeCad](./YouTube_KiCad_Videos.md#kicad--freecad)
 * [KiCad & EMI](./YouTube_KiCad_Videos.md#kicad--emi)
 
