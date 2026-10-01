@@ -54,13 +54,33 @@
 * How to create various shape PCB boards
   * [How to create various shape PCB boards in KiCad 9](https://youtu.be/f_qYrs3OZBM)
 
-### KiCad & FreeCad 3D modeler
+### FreeCAD + KiCAD complete walkthrough
 
-* [KiCad & FreeCad](./YouTube_KiCad_Videos.md#kicad--freecad)
+* A look at some of the new features in these open source design programs.
+  * [KiCad 10 and FreeCAD 1.1 are substantial](https://youtu.be/RrsPh7PYMvw "Tech Dregs")
+* FreeCAD Export to KiCAD
+  * [FreeCAD Export to KiCAD](https://youtu.be/JjDKCBUYoPU "mathcodeprint")
+  * [FreeCAD: creating 3D model for KiCAD](https://youtu.be/S63DLV5HOPA "Oleksii Slabchenko")
+  * [FreeCAD x KiCAD 02 - Electronic Components Drawing - IC TDA 7294](https://youtu.be/pS_AzmdfzpM "Catur Pebriandani")
+* 3D model data from KiCad to FreeCAD
+  * [Quickly moving 3D model data from KiCad to FreeCAD](https://youtu.be/i7StDopw0kI "Cliff Brake")
+  * [I designed my first electronics enclosure for 3D printing](https://youtu.be/ov3PpaP9uHI "Sayanee Basu")
+* AI
+  * [How to model a custom 3D part in FreeCAD](./HowToModelACustom3DpartInFreeCAD.md)
+  * [Trying to design an enclosure for an existing board](./ToDesignAnEnclosureForAnExistingBoardUsingFreeCADandKiCad.md)
 
 ### KiCad & EMI
 
-* [KiCad & EMI](./YouTube_KiCad_Videos.md#kicad--emi)
+* [Phil’s Lab](https://www.youtube.com/@PhilsLab)
+  * [Boost Converter PCB Design - Phil's Lab #106](https://youtu.be/1g-D8T65SJU)
+  * [Boost Converter Design & Sizing - Phil's Lab #113](https://youtu.be/qd7qcZnV70o)
+  * [(Sponsored) How To Improve Your PCB Designs (Common Mistakes) - Phil's Lab #18](https://youtu.be/IclJ9nbtYgI)
+    * [How to Achieve Proper Grounding - Rick Hartley - Expert Live Training (US)](https://youtu.be/ySuUZEjARPY "Rick Hartley")
+* [Robert Feranec](https://www.youtube.com/@RobertFeranec)
+  * [9 Simple Tricks to Improve EMC / EMI on Your Boards - Practical examples (with Min Zhang)](https://youtu.be/Lf51sx6sC0I)
+  * [***Do You Really Need Power Planes?*** Are you sure? | Eric Bogatin](https://youtu.be/kdCJxdR7L_I "Eric Bogatin")
+  * [hat Every PCB Designer Should Know - Return Current Path (with Eric Bogatin)](https://youtu.be/icRzEZF3eZo "Eric Bogatin")
+  * [What Decoupling Capacitor Value To Use And Where To Place Them | Eric Bogatin](https://youtu.be/ARwBwHZESOY "Eric Bogatin")
 
 ### KiCad General
 
