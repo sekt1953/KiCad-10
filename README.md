@@ -9,7 +9,7 @@
 
 ## YouTube Videos
 
-### Schematic Design
+### Skematisk design
 
 * Hierarchical Schematic Design
   * [Hierarchical Schematic Design](https://youtu.be/aEfVsJ7I0Vk "kpol")
