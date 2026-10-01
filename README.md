@@ -13,6 +13,9 @@
 
 * Hierarchical Schematic Design
   * [Hierarchical Schematic Design](https://youtu.be/aEfVsJ7I0Vk "kpol")
+  * [Master Design Blocks in KiCAD 9 – Save Time & Reuse Schematics!](https://youtu.be/seTI7mZ2Gr0 "Scordion Electronics")
+  * [Modular Schematic Design in KiCAD with Hierarchical Sheets](https://youtu.be/qGHSm74UwHI "Scordion Electronics")
+  * [Stop Redrawing Circuits in KiCad: Design Blocks for Schematic + PCB Layout](https://youtu.be/qSK9_h3r868 "YU Lab")
 * Synbols and Footprint
   * Symbols
     * [How to Create Custom KiCad Symbol and Footprints - Symbol](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R&t=8)
@@ -26,6 +29,7 @@
 * How to design differential traces
   * [How to design 90 ohm differential traces for USB signals in KiCad](https://youtu.be/ABJs4LKFSbA)
     * [Sierra Circuits - Impedance](https://impedance.app.protoexpress.com/)
+  * [KiCAD Differential Pairs From Basics to Mastery](https://youtu.be/M13QxtPVrXY?list=PLIAR2cGwAPCLUXmfASbTys--_YN5_oESm "Petr Dvořák")
 * How to Panelize PCB boards
   * [ in KiCad 9.0 using Mouse Bite](https://youtu.be/JM_CctmHOnU?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R)
   * [How to panelize PCB board using V cuts in KiCad 9](https://youtu.be/ph2jV5HMxfQ?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R)
