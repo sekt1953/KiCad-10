@@ -9,14 +9,41 @@
 
 ## YouTube Videos
 
-* [KiCad General](./YouTube_KiCad_Videos.md#kicad-general)
-  * [How to Create Custom KiCad Symbol and Footprints](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R)
-    * [Symbols](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R&t=8)
-    * [Footprints](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R&t=219)
-    * [Linking Symbol with Footprint](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R&t=411)
-    * [Preview Symbol & Footprint](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R&t=438)
+### Schematic Design
+
+* Hierarchical Schematic Design
+  * [Hierarchical Schematic Design](https://youtu.be/aEfVsJ7I0Vk "kpol")
+* Synbols and Footprint
+  * Symbols
+    * [How to Create Custom KiCad Symbol and Footprints - Symbol](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R&t=8)
+  * Footprint
+    * [How to Create Custom KiCad Symbol and Footprints - Footprint](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R&t=219)
+  * Linking Symbol with Footprint
+    * [How to Create Custom KiCad Symbol and Footprints - Linking](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R&t=411)
+
+### PCB Design
+
+* How to design differential traces
+  * [How to design 90 ohm differential traces for USB signals in KiCad](https://youtu.be/ABJs4LKFSbA)
+    * [Sierra Circuits - Impedance](https://impedance.app.protoexpress.com/)
+* How to Panelize PCB boards
+  * [ in KiCad 9.0 using Mouse Bite](https://youtu.be/JM_CctmHOnU?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R)
+  * [How to panelize PCB board using V cuts in KiCad 9](https://youtu.be/ph2jV5HMxfQ?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R)
+* How to create various shape PCB boards
+  * [How to create various shape PCB boards in KiCad 9](https://youtu.be/f_qYrs3OZBM)
+
+### KiCad & FreeCad 
+
 * [KiCad & FreeCad](./YouTube_KiCad_Videos.md#kicad--freecad)
+
+### KiCad & EMI
+
 * [KiCad & EMI](./YouTube_KiCad_Videos.md#kicad--emi)
+
+### KiCad General
+
+* [KiCad General](./YouTube_KiCad_Videos.md#kicad-general)
+
 
 ## KiCad Setup
 
@@ -30,6 +57,7 @@
 * Symbol-, Footprint-, Design Block-Libraries
 * Egne-Libraries:
   * [Library Locations On Ubuntu](./LibraryLocationsOnUbuntu.md)
+
 
 ## KiCad Project
 
