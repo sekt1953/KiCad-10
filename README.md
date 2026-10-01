@@ -22,7 +22,7 @@
     * [Actions reference](https://docs.kicad.org/10.0/en/eeschema/eeschema.html#eeschema-actions-reference)
   * [Learning Resources](https://www.kicad.org/help/learning-resources/)
 
-## YouTube on KiCad
+## YouTube om KiCad
 
 ### Skematisk design
 
