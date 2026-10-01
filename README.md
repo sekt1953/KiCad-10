@@ -53,6 +53,9 @@
   * [How to panelize PCB board using V cuts in KiCad 9](https://youtu.be/ph2jV5HMxfQ?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R)
 * How to create various shape PCB boards
   * [How to create various shape PCB boards in KiCad 9](https://youtu.be/f_qYrs3OZBM)
+* ESP32-C3 Mini PCB Design
+  * [KiCad 9 ESP32-C3 Mini PCB Design](https://youtu.be/-iZbwzr0dS8 "PajoPCB")
+  * [Design a Custom ESP32-Mini Board in KiCad 9](https://youtu.be/Z7ycNfVJSJ4 "PajoPCB")
 
 ### FreeCAD + KiCAD complete walkthrough
 
