@@ -36,7 +36,7 @@
 * How to create various shape PCB boards
   * [How to create various shape PCB boards in KiCad 9](https://youtu.be/f_qYrs3OZBM)
 
-### KiCad & FreeCad 
+### KiCad & FreeCad 3D modeler
 
 * [KiCad & FreeCad](./YouTube_KiCad_Videos.md#kicad--freecad)
 
@@ -47,7 +47,6 @@
 ### KiCad General
 
 * [KiCad General](./YouTube_KiCad_Videos.md#kicad-general)
-
 
 ## KiCad Setup
 
