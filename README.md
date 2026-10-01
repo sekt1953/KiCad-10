@@ -14,6 +14,8 @@
 * Hierarchical Schematic Design
   * [Hierarchical Schematic Design](https://youtu.be/aEfVsJ7I0Vk "kpol")
   * [Master Design Blocks in KiCAD 9 – Save Time & Reuse Schematics!](https://youtu.be/seTI7mZ2Gr0 "Scordion Electronics")
+* Design Blocks
+  * [How to Reuse Circuits as Design Blocks in KiCad for Time-Saving Workflow](https://youtu.be/tEj-HklouXU "DIY Hideout")
   * [Modular Schematic Design in KiCAD with Hierarchical Sheets](https://youtu.be/qGHSm74UwHI "Scordion Electronics")
   * [Stop Redrawing Circuits in KiCad: Design Blocks for Schematic + PCB Layout](https://youtu.be/qSK9_h3r868 "YU Lab")
 * Synbols and Footprint
