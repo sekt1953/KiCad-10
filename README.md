@@ -36,7 +36,7 @@
   * [Stop Redrawing Circuits in KiCad: Design Blocks for Schematic + PCB Layout](https://youtu.be/qSK9_h3r868 "YU Lab")
 * Synbols and Footprint
   * Symbols
-    * [How to Create Custom KiCad Symbol and Footprints - Symbol](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R&t=8)
+    * [How to Create Custom KiCad Symbol and Footprints - Symbol](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R&t=8 "DIY Hideout")
   * Footprint
     * [How to Create Custom KiCad Symbol and Footprints - Footprint](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R&t=219 "DIY Hideout")
     * [How to Create a Custom Footprint (Step by Step)](https://youtu.be/sDvQ3Wh98AI "
