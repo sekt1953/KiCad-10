@@ -38,15 +38,18 @@
   * Symbols
     * [How to Create Custom KiCad Symbol and Footprints - Symbol](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R&t=8 "DIY Hideout")
   * Footprint
+    * [How to Create a Custom Footprint (Step by Step)](https://youtu.be/sDvQ3Wh98AI "AISLER")
     * [How to Create Custom KiCad Symbol and Footprints - Footprint](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R&t=219 "DIY Hideout")
-    * [How to Create a Custom Footprint (Step by Step)](https://youtu.be/sDvQ3Wh98AI "
-AISLER")
   * Linking Symbol with Footprint
     * [How to Create Custom KiCad Symbol and Footprints - Linking](https://youtu.be/xpBpxipfXFA?list=PLhEL_BCoP-PsyjJb1Pl8QnrqaBn_YuJ7R&t=411)
 
 ### PCB Design
 
 * How to design differential traces
+  * [PCB Trace Impedance in KiCad 10 & Altium Designer](https://youtu.be/-ixsKTMrToM "
+Alchitry")
+    * [What is Trace Impedance?](https://youtu.be/6HeszenNwtQ  "Alchitry")
+    * [Length/Delay Matching in KiCad 10 and Altium Designer](https://youtu.be/OrjdTfpJeWw "Alchitry")
   * [How to design 90 ohm differential traces for USB signals in KiCad](https://youtu.be/ABJs4LKFSbA)
     * [Sierra Circuits - Impedance](https://impedance.app.protoexpress.com/)
   * [KiCAD Differential Pairs From Basics to Mastery](https://youtu.be/M13QxtPVrXY?list=PLIAR2cGwAPCLUXmfASbTys--_YN5_oESm "Petr Dvořák")
