@@ -26,6 +26,7 @@
 * [🛠️ Plasering af mine biblioteker](./PlaseringAfBiblioteker.md)
   * [🔍 Opsamling på din fulde Git-struktur](./PlaseringAfBiblioteker.md#-opsamling-på-din-fulde-git-struktur)
   * [🔍 Opsplitning af biblioteker efter kategorier](./PlaseringAfBiblioteker.md#opsplitning-af-biblioteker-efter-kategorier)
+    * [Oprettelse af biblioteker](./PlaseringAfBiblioteker.md#oprettelse-af-biblioteker)
 
 ## [Plugin](./Plugins.md)
 
