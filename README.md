@@ -18,6 +18,15 @@
   * [To reset KiCad 10 to its default factory settings](./ResetToDefaultSetup.md#to-reset-kicad-10-to-its-default-factory-settings)
   * [Resetting Only the Libraries (Alternative)](./ResetToDefaultSetup.md#resetting-only-the-libraries-alternative)
 
+### Navngivning af KiCad Librarie files
+
+* Navngivning
+  * [Symboler](./SymbolNavngivning.md)
+  * [Footprint](./FootprintNavngivning.md)
+  * [3d-modeller](./3DfilersNavngivning.md)
+* [🔍 Opsamling på din fulde Git-struktur](./OpsamlingGit-struktur.md)
+  * [🔍 Opsplitning af biblioteker efter kategorier](./OpsplitningIkategorier.md)
+
 ## [Plugin](./Plugins.md)
 
 * [PCBWay Plug-in til KiCad ](./PCBWay.md)
@@ -27,11 +36,3 @@
   * [Sådan du opsætter dine brugerdefinerede felter (Fields)](./PCBWay.md#sådan-du-opsætter-dine-brugerdefinerede-felter-fields)
   * [🛠️ Trin-for-trin: Globale felter til nye symboler](./PCBWay.md#️-trin-for-trin-globale-felter-til-nye-symboler)
 
-## Navngivning af KiCad Librarie files
-
-* Navngivning
-  * [Symboler](./SymbolNavngivning.md)
-  * [Footprint](./FootprintNavngivning.md)
-  * [3d-modeller](./3DfilersNavngivning.md)
-* [🔍 Opsamling på din fulde Git-struktur](./OpsamlingGit-struktur.md)
-  * [🔍 Opsplitning af biblioteker efter kategorier](./OpsplitningIkategorier.md)
