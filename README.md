@@ -15,3 +15,12 @@
 * Library Locations On Ubuntu
   * [Library Locations On Ubuntu](./LibraryLocationsOnUbuntu.md)
   * [🛠️ Sådan fortæller du KiCad, hvor dine Library er](./SådanFortællerDuKiCadHvorLibraryEr.md)
+  * [Reset KiCad til default Setup](./ResetToDefaultSetup.md)
+    * [To reset KiCad 10 to its default factory settings](./ResetToDefaultSetup.md#to-reset-kicad-10-to-its-default-factory-settings)
+    * [Resetting Only the Libraries (Alternative)](./ResetToDefaultSetup.md#resetting-only-the-libraries-alternative)
+
+## Kicad Plugin
+
+* [Plugin](./Plugins.md)
+  * [PCBWay Plug-in til KiCad ](./PCBWay.md)
+    * [](./PCBWay.md#-hvad-gør-plug-inet)
