@@ -64,12 +64,27 @@ vcpkg_installed/
 # debug information files
 *.dwo
 
-# KiCad
-*.history
-
 # FreeCAD
 *.FCBak
 
 # test output & cache
 Testing/
 .cache/
+
+# KiCad
+*.history
+
+#  Den anbefalede .gitignore til dit KiCad bibliotek
+# KiCad backup- og midlertidige filer
+*-bak
+*.bak
+*~
+
+# Operativsystem-specifikke filer (skjulte filer fra filsystemet)
+.DS_Store
+Thumbs.db
+.directory
+
+# Eventuelle lokale cache-filer (hvis du åbner bibliotekseditoren direkte)
+.fp-lib-table.swp
+.sym-lib-table.swp
