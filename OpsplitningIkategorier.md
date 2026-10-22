@@ -71,9 +71,9 @@ kicad10/
 
 ### Oprettelse af biblioteker
 
-´´´bash
+```bash
 mkdir -p ~/GitHub/KiCad-10/Lib/{symbols,footprints,3dmodels}/{Komponenter,PCB_Moduler}
-´´´
+```
 
 ## ⚙️ Det eneste du skal huske i KiCad
 
