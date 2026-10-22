@@ -10,7 +10,7 @@
   * [KiCad & EMI](./KiCad-10-0_Dokumentation.md#kicad--emi)
   * [KiCad General](./KiCad-10-0_Dokumentation.md#kicad-general)
 
-## KiCad Libraries, Ubuntu & Appimages
+## Libraries, Ubuntu & Appimages
 
 * Library Locations On Ubuntu
   * [Library Locations On Ubuntu](./LibraryLocationsOnUbuntu.md)
@@ -19,7 +19,7 @@
     * [To reset KiCad 10 to its default factory settings](./ResetToDefaultSetup.md#to-reset-kicad-10-to-its-default-factory-settings)
     * [Resetting Only the Libraries (Alternative)](./ResetToDefaultSetup.md#resetting-only-the-libraries-alternative)
 
-## Kicad Plugin
+## Plugin
 
 * [Plugin](./Plugins.md)
   * [PCBWay Plug-in til KiCad ](./PCBWay.md)
