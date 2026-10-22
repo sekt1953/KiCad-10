@@ -69,6 +69,12 @@ kicad10/
         └── ESP32_DevKitC.step
 ```
 
+### Oprettelse af biblioteker
+
+´´´bash
+mkdir -p ~/GitHub/KiCad-10/Lib/{symbols,footprints,3dmodels}/{Komponenter,PCB_Moduler}
+```
+
 ## ⚙️ Det eneste du skal huske i KiCad
 
 For at KiCad kan se dine nye opdelte footprints, skal du huske at tilføje begge .pretty-mapper under dine indstillinger:
@@ -86,3 +92,4 @@ Når du inde i dit footprint skal vælge 3D-modellen, vil stien se således ud:
 * Til et modul: ${KICAD10_USER}/3dmodels/PCB_Moduler/Arduino_Nano.step
 
 Det spiller bare, og det er fuldstændig uafhængigt af, hvilken computer du åbner dit Git-repository på!
+
