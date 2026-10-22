@@ -45,7 +45,7 @@ Når dine undermapper afspejler hinanden hele vejen igennem, bliver dit bibliote
 Dit kicad10 repository kommer til at se således ud, hvor alt er delt op i Komponenter og PCB_Moduler:
 
 ```text
-kicad10/
+Lib/
 ├── .gitignore
 │
 ├── symbols/
