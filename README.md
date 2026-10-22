@@ -13,7 +13,6 @@
 ## Libraries, Ubuntu & Appimages
 
 * [Library Locations On Ubuntu](./LibraryLocationsOnUbuntu.md)
-* [🛠️ Sådan fortæller du KiCad, hvor dine Library er](./SådanFortællerDuKiCadHvorLibraryEr.md)
 * [Reset KiCad til default Setup](./ResetToDefaultSetup.md)
   * [To reset KiCad 10 to its default factory settings](./ResetToDefaultSetup.md#to-reset-kicad-10-to-its-default-factory-settings)
   * [Resetting Only the Libraries (Alternative)](./ResetToDefaultSetup.md#resetting-only-the-libraries-alternative)
@@ -24,7 +23,8 @@
   * [Symboler](./SymbolNavngivning.md)
   * [Footprint](./FootprintNavngivning.md)
   * [3d-modeller](./3DfilersNavngivning.md)
-* [🔍 Opsamling på din fulde Git-struktur](./OpsamlingGit-struktur.md)
+* [🛠️ Sådan fortæller du KiCad, hvor dine biblioteker er](./SådanFortællerDuKiCadHvorLibraryEr.md)
+  * [🔍 Opsamling på din fulde Git-struktur](./OpsamlingGit-struktur.md)
   * [🔍 Opsplitning af biblioteker efter kategorier](./OpsplitningIkategorier.md)
 
 ## [Plugin](./Plugins.md)
