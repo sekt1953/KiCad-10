@@ -33,6 +33,6 @@
   * [🚀 Hvad gør plug-inet?](./PCBWay.md#-hvad-gør-plug-inet)
   * [🛠️ Sådan installerer du det i KiCad (Også via AppImage)](./PCBWay.md#️-sådan-installerer-du-det-i-kicad-også-via-appimage)
   * [💡 Vigtigt at huske i dit eget Git-bibliotek (kicad10)](./PCBWay.md#-vigtigt-at-huske-i-dit-eget-git-bibliotek-kicad10)
-  * [Sådan du opsætter dine brugerdefinerede felter (Fields)](./PCBWay.md#sådan-du-opsætter-dine-brugerdefinerede-felter-fields)
+  * [🛠️ Sådan du opsætter dine brugerdefinerede felter (Fields)](./PCBWay.md#sådan-du-opsætter-dine-brugerdefinerede-felter-fields)
   * [🛠️ Trin-for-trin: Globale felter til nye symboler](./PCBWay.md#️-trin-for-trin-globale-felter-til-nye-symboler)
 
