@@ -19,10 +19,10 @@
 
 ### Navngivning af KiCad Librarie files
 
-* Navngivning
-  * [Symboler](./SymbolNavngivning.md)
-  * [Footprint](./FootprintNavngivning.md)
-  * [3d-modeller](./3DfilersNavngivning.md)
+* [Navngivning](./Navngivning.md)
+  * [Symboler](./Navngivning.md#navngivning-af-symbol-filer)
+  * [Footprint](./Navngivning.md#navngivning-af-footprint-filer)
+  * [3d-modeller](./Navngivning.md#-2-navngivning-af-3d-modeller)
 * [🛠️ Sådan fortæller du KiCad, hvor dine biblioteker er](./SådanFortællerDuKiCadHvorLibraryEr.md)
   * [🔍 Opsamling på din fulde Git-struktur](./OpsamlingGit-struktur.md)
   * [🔍 Opsplitning af biblioteker efter kategorier](./OpsplitningIkategorier.md)
