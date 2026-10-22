@@ -23,9 +23,9 @@
   * [Symboler](./Navngivning.md#navngivning-af-symbol-filer)
   * [Footprint](./Navngivning.md#navngivning-af-footprint-filer)
   * [3d-modeller](./Navngivning.md#-2-navngivning-af-3d-modeller)
-* [🛠️ Sådan fortæller du KiCad, hvor dine biblioteker er](./SådanFortællerDuKiCadHvorLibraryEr.md)
-  * [🔍 Opsamling på din fulde Git-struktur](./OpsamlingGit-struktur.md)
-  * [🔍 Opsplitning af biblioteker efter kategorier](./OpsplitningIkategorier.md)
+* [🛠️ Plasering af mine biblioteker](./PlaseringAfBiblioteker.md)
+  * [🔍 Opsamling på din fulde Git-struktur](./PlaseringAfBiblioteker.md#-opsamling-på-din-fulde-git-struktur)
+  * [🔍 Opsplitning af biblioteker efter kategorier](./PlaseringAfBiblioteker.md#opsplitning-af-biblioteker-efter-kategorier)
 
 ## [Plugin](./Plugins.md)
 
